@@ -5,7 +5,7 @@ Nicholas Wells
 12 chapters, 2 appendices, 547 pages.
 
 PREFACE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0
 
 Linux Security Advantages:
 
@@ -133,13 +133,115 @@ bastille linux
 
 
 
-
-
-
-
 *** WK 02 ***
 CH02 - Configuring Basic Networking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ls /sys/class/net # for network devices
+    eth0    ethernet
+    tr0     token ring
+    lo      local loopback
+    ppp0    point-to-point protocol
+
+can rename network devices
+    ip link set eth0 down
+    ip link set eth0 name inside
+    ip link set inside up
+
+    ip link show inside
+    ifconfig inside
+need to be careful about network names e.g. eth0/1/2
+    are they same after new interface added? etc.
+drivers are kernel modules
+lsmod to list current loaded modules
+    e.g. e1000 Intel Gigabit 
+    e.g. bnx2  Broadcom on mercury
+lspci can tell you network card info
+modprobe can load drivers   (handles dependencies)
+    e.g. modprobe bnx2
+insmod, loads modules but doesn't do dependency handling
+modules live under /lib/modules
+    e.g. /lib/modules/2.6.<version>/kernel/drivers/net
+
+giving arguments to modules
+    e.g. modprobe ne2000 irq=15 io=0x300
+    or /etc/modprobe.conf or /etc/modules.conf
+    "man modprobe.conf"
+
+    #/etc/modprobe.conf
+    alias eth0 3c59x
+    options 3c59x irq=15 io=0x300
+
+ifconfig    # lists info on network interfaces
+    UP # shows that it's up
+    BROADCAST/MULTICAST # shows interface supports these
+    MTU: max frame/packet, eth normally 1500
+    RX: packets received
+    TX: packets sent
+    collisions: collisions (multiple NICs try to use line)
+    txqueuelen: number of packets NIC can store before sending when line busy
+    RX/TX bytes: bytes sent/received
+
+    Mib: is 1,048,576 not 1e6
+
+    ifconfig eth0 down # takes it down
+    ifconfig etho up
+
+    #configure
+    ifconfig eth0 192.168.0.1 netmask 255.255.255.0 broadcast 192.168.0.255
+
+route
+    view/configure routing table
+    route # by itself shows routing table
+
+    Gateway: host to receive packet, * if host is on (no routing needed)
+    flags: U up, G gateway, H host
+    Metric: number of hops
+    Use: rough measure of traffic going to this network
+    Iface: interface packets sent through
+
+    #add gateway default
+    e.g. route add efault gw 10.0.1.1
+    #add network
+    e.g. route add -net 10.0.2.0 netmask 255.255.255.0 gw 10.0.1.1 dev eth0
+ip
+    recent addition to linux, part of IPROUTE2 package
+    meant to re replace ifconfig, route, and arp
+    allows you to use CIDR notation !!
+    e.g. ifconfig eth0 10.1.1.204 netmask 255.255.255.248 broadcast 10.1.1.207
+    equivalent: ip addr add 10.1.1.204/29 dev eth0
+
+    ip route # show routing table
+    #add default
+    ip route add default dev eth0 via 10.1.1.201
+
+    ip -statistics link show eth0 # show statistics
+    read manpage or online tutes for more info
+ip aliasing
+    more than one IP to an interface
+    with ifconfig alias like eth0:0 eth0:1
+    e.g. ifconfig eth0:0 10.0.0.2 netmask 255.0.0.0 broadcast 10.255.255.255
+    ifconfig eth0:web1 10.0.0.2 netmask 255.0.0.0. broadcast 10.255.255.255
+    OR
+    ip addr 10.0.0.3/8 dev eth0 (better way)
+wireless
+    iwconfig and iwlist
+    iwconfig <interface> <option>
+proc: view/set many network configuration parameters
+    /proc/net: status info
+    /proc/sys/net: settings you can modify
+
+    e.g.
+    cat /proc/sys/net/ipv4/ip_local_port_range
+    echo "49152 65535" > /proc/sys/net/ipv4/ip_local_port_range
+    # doesn't remain after reboot
+    put somewhere like /etc/rc.d/rclocal 
+arp
+    arp -a # all: show cache
+    normally only cached for 2 minutes
+
+
+BM p68 - scripts
+
 CH03 - Configuring Client Services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 4-6*
@@ -163,7 +265,7 @@ CH09 - User Security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *** WK 07 ***
 CH10 - Cryptography
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0
 *** WK 08 ***
 7 (re-read)
 *** WK 09 ***
