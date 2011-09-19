@@ -1,0 +1,371 @@
+46 Chaps
+
+Already Read
+
+=== Part I - Core Concepts ===
+
+* Chap 1 - 2011-03-05
+===========
+
+*** Chap 1 - Big Picture
+====
+
+Activity - building block of ui, like a window or dialog in desktop, or page in
+    web app.
+    * can click back to back up.
+
+Services - activities equal short-lived. services keep running,
+    e.g. check for updates to rss, playback music, schedule tasks
+
+Content Providers - abstract data so can be used by multiple apps
+Intents - system messages, notify hardware state change, events, incoming data, etc.
+
+*** Chap 2 - How To Get Started
+======
+install java
+install android
+install packages, sdk, samples, docs, google apis.
+install eclipse, then install addon adt plugin (android development)
+    add source: https://dl- ssl.google.com/android/eclipse/
+eclipse needs to know where android is:
+    prefs, android, browse.
+need apache's ant if not using eclipse for building. ( need 1.8?)
+    if self install set ANT_HOME and JAVA_HOME environment variables.
+
+AVD - android virtual device
+start emulator
+settings -> apps -> development.
+adb devices - list devices
+
+*** Chap 3 - Your First Android Project
+=====
+ant clean install
+
+*** Chap 4 - Examining Your First Project
+=========
+R.java created, constants referring to resources under res/
+res/
+    drawable/   images
+    layout/     xml ui layout
+    menu/       xml menu
+    raw/        files. e.g. audio, csv, etc.
+    values/     strings, dimensions, etc
+    xml/        xml
+
+suffixes: res/drawable-hdpi/ high-density screens only.
+    hdpi, ldpi, mdpi
+
+res/layout/main.xml - xml layout
+res/values/strings.xml - externalized strings
+
+bin/* - compiled classes, *.apk
+apk - zip files with *.dex
+
+debug is default to build mode.
+
+AndroidManifest.xml
+declare activities, services
+<manifest xmlns package="foo.x.bar"></manifest>
+now can refer to foo.x.bar.woo as .woo
+android:versionName, android:versionCode - string and integer for app versioning.
+    <application>
+    <activity>
+        android:name - class
+        android:label - display name
+        <intent-filter> - when to display it.
+
+*** Chap 5 - A Bit About Eclipse
+================
+"create project from existing source"
+set buildpath configureto android jar
+ddms perspective add
+MOTODEV Studio for Android, another addin for eclipse
+
+==============
+*** Chap 6 - Enhancing Your First Project
+
+screen sizes:
+    small < 3"
+    normal 3 to 4.5"
+    large 4.5" to 10"
+    x-large > 10"
+by default won't support smal screens, auto code stuff will support larger ones.
+<supports-screens> in manifest xml.
+
+android version - assumes support 1.0+
+<uses-sdk> android:minSdkVersion //integer, 5=2.0, 8=2.2, 11=3.0, etc.
+    targetSdkVersion
+
+=== Part II - Activities ===
+
+======
+*** Chapter 7 - Rewriting Your First Project
+public class Now extends Activity implements View.OnClickListener
+
+OnClickListener - implements onClick(View v)
+
+import java.util.Date;
+new Date().toString();
+======
+*** Chapter 8 - Using XML-Based Layouts
+root element needs xml namspace, xmlns
+android:id needed if need to refer to it in your java code.
+    "@+id/foo" to define, drop the "+' for subsequent use.
+setContentView(R.layout.main);
+findViewById(R.id.something)
+=====
+*** Chapter 9 - Employing Basic Widgets
+TextView // this is a label
+    android:text
+    android:typeface
+    android:textStyle (bold, italic, bold_italic)
+    android:textColor
+layout_width/height, fill_parent/wrap_content
+
+Button - subclass of TextView
+    From 1.6 can specifify onClick method (from activity class) in xml.
+    android:onClick="foo"
+    pubic void someMethod(View theButton) { ... }
+
+ImageView/ImageButton
+    android:src
+    ImageButton is suclass of ImageView
+    android:adjustViewBounds="true"
+
+EditText // these are fields.
+    subclass of TextView
+    android:autoText // auto spell assist
+    android:capitalize //first letter caps
+    android:digits //digits only
+    android:singeLine //single or multi-line. Bool.
+
+.setText("text");
+
+AutoCompleteTextView // see later in book.
+
+CheckBox // TextView subclass
+    .isChecked()
+    .setChecked()
+    .toggle()
+    // can set OnCheckedChangeListener when state changes.
+
+
+    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+
+RadioButton // inherits from CompoundButton as does CheckBox
+    normally stick inside RadioGroup
+    group.check(R.id.radio1)
+    group.clearCheck()
+    group.getCheckedRadioButtonId()  // return id or -1
+    btn.setChecked()
+
+Widget attributes
+padding - space between contents and edge
+    android:padding //all 4 sides
+    android:paddingLeft // 5px, 2mm, 10dip (device independent pixel)
+    .setPadding()
+android:visibility //shown initially
+android:nextFocusDown //Up, Left, Right, focus order for d-pad etc.
+android:contentDescription // like alt on html img tag.
+.setEnabled()
+.isEnabled()
+.requestFocus()
+isFocused()
+
+.getParent()
+.getRootView() // what you gave setContentView
+
+Colour
+android:background //single color
+android:textColor // can take ColorStateList
+.setTextColor()
+ColorStateList // e.g. different colour if selected.
+    specify different state colors
+    ColorStateList.valueof() // all same colour.
+
+===== 
+*** Chapter 10 - Working with Containers - 3-Apr-2011
+Will need container to layout multiple widgets.
+
+LinearLayout // box model.
+    lined up in column or row.
+    android:orientation horizontal/vertical (row or column)
+    .setOrientation() // give it HORIZONTAL or VERTICAL
+
+    wrap_content // use natural size, use word wrap if too big.
+    Android 2.2 - fill_parent renamed to match_parent
+    layout_weight // proportion of free space to take.
+        e.g. both same size, equally shared.
+        defaults to zero.
+    % layout
+        set layout_width to zero (for horizontal)
+        layout_weight to be percentages that add up to 100.
+
+    defaults to top-left aligned
+    android:layout_gravity, left, center_horizontal, right
+    .setGravity()
+    text aligns to bottom. center_vertical gravity to center.
+
+    margin
+    android:layout_marginTop
+    "5dip" - device independent pixels.
+
+    
+
+
+
+
+RelativeLayout // rule based
+    relative to container.
+    bools:
+    android:layout_alignParentTop
+    layout_alignParentBottom,
+    layout_alignParentLeft
+    layout_alignParentRight
+    layout_centerHorizontal
+    layout_centerVertical
+    layout_centerInParent
+    relative to other:
+    android:layout_above, layout_below, layout_toLeftOf, layout_toRightOf
+    // match alignment.
+    android:layout_alignTop, layout_alignBottom,
+    layout_alignLeft, layout_alignRight, layout_alignBaseline
+        (baseline) line that text sits atop of.
+    pre 1.6, one pass of xml, couldn't reference before declared.
+    post 1.6 2 passes.
+
+    can have overlap (Linear can't do that)
+    later children will be avoe in z-axis.
+
+TableLayout // grid model
+    TableRow
+    layout_span for spanning multiple rows (like colspan in html)
+    layout_column // specify which column to put into. (0 based)
+    normal view interserpsed takes table width.
+    e.g. divider
+        layout_height="2dip" background="#0000ff"
+    android:stretchColumns // which column(s) to stretch out to available space.
+    shrinkColumns
+    collapseColumns //start no width.
+        setColumnCollapsed()
+    setColumnStretchable(), setColumnShrinkable()
+
+ScrollView
+    may need padding on right so scrollbar doesn't get in the way.
+    also HorizontalScrollView
+    can't contain scrollable items. e.g. ListView (can already scroll)
+
+*** The Input Method Framework - 3-Apr-2011
+IMF - soft keyboards.
+IME - input method editor (on screen keyboard), careful, can cover content
+android:inputType, pipe delimited "|"
+    text (default), number, phone, datetime, date, time
+    textEmailAddress
+    numberSigned, numberSignedDecimal
+    textMultiLine
+    textAutoCorrect
+    android:minLines="3"
+EditText is multiline by default
+"accessory" button - bottom right, e.g. return, next, etc.
+    "next" is default, "done" for last.
+    android:imeOptions, actionSend, actionDone, 
+    to provide behaviour, setOnEditroActionListener(),
+        given IME_ACTION_SEND or something similar you can handle.
+when keyboard appears:
+    - "pan", slide-up or cover part of the layout.
+    - shrink the layout
+    - in landscape, can do fullscreen kb.
+    All handled by android.
+    android:windowSoftInputMode on activity in manifest file.
+        adjustResize
+tapping "accessory" doesn't necessarily close the kb.
+    InputMethodManager needs to be called.
+    InputMethodManager mgr = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+    mgr.hideSoftInputFromWindow(fld.getWindowToken(), 0); // fld is the EditText.
+
+
+*** Using Selection Widgets
+selection views are handed "data adapters" to supply their choices.
+ArrayAdapter - easy, can wrap around array or java.util.List
+    String[] items = {"a", "bee", sea"};
+    new ArrayAdapter<String> (this, android.R.layout.simple_list_item_1, items);
+    // toString() will get called on each element.
+    // will become TextViews
+ListView
+    need to: invoke setAdapter() to supply data,
+    and attach a setOnItemSelectedListener()
+    if activity is mainly a list, can subclass from ListActivity
+    (even have default layout), to change, identify ListView as @android:id/list
+    onListItemClick()
+    14% BM
+
+
+*** Getting Fancy With Lists
+*** Still More Widgets and Containers
+*** Embedding the WebKit Browser
+*** Applying Menus
+*** Showing Pop-Up Messages
+
+*** Handling Activity Lifecycle Events - 6-April-2011
+One of 4 states:q
+    active
+    paused (visible but something partially on top)
+    stopped, hidden by other activities
+    dead, never started, or was terminated.
+
+onCreate()
+    on first being started
+    configuration change (e.g. orientation)
+onDestroy()
+    shutting down, called finish() or android needs to reclaim RAM
+    If really urgent (may not even be called, just shutdown)
+onStart()
+    launched, or back to foreground
+onRestart()
+    stopped and then restarted
+onStop()
+    called when about to be stopped.
+onResume()
+    just before it come to foreground (even on initial launch)
+onPause()
+    launch another activity
+    undo what onResume() did
+    once called, android may kill activity when ever it wants.
+
+onSaveInstanceState()
+    save into bundle
+    This state is availabe at onCreate() and onRestoreInstanceState()
+
+
+
+
+*** Handling Rotation
+change of configuration means activity is destroyed and re-created.
+*** Dealing With Threads
+*** Creating Intent Filters
+*** Launching Activities and Sub-Activities
+*** Introducing the Honeycomb UI
+*** Using the Action Bar
+*** Accessing Files
+*** Working with Resources
+*** Using Preferences
+*** Managing and Accessing Local Databases
+*** Leveraging Java Libraries
+*** Communicating via the Internet
+*** Services: The Theory
+*** Basic Service Patterns
+*** Alerting Users via Notifications
+*** Requesting & Requiring Permissions
+*** Accessing Location-Based Services
+*** Mapping with MapView and MapActivity
+*** Handling Telephone Calls
+*** Fonts
+*** More Development Tools
+*** The Role of Alternative Environments
+*** HTML5
+*** PhoneGap
+*** Handling Multiple Screen Sizes
+*** Dealing With Devices
+*** Handling Platform Changes
+*** Where Do We Go From Here?
+*** END

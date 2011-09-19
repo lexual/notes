@@ -1,0 +1,17 @@
+Intro
+Conclusion
+Other topics.
+
+
+REQUIREMENTS
+01 - physical aspect of CC, qualitive/quantitive
+02 - underlying scient that can be used to understand impact
+03 - Historical context (old or new problem)
+04 - Social/cultural issues around topic. (possible disparity between public/expert opinions
+05 - Role media does/should play
+06 - Possible/proposed responses. clearly describe how they're expected to work.
+07 - obstacles (technical/social/political) to implementing responses effictevely
+08 - Economic implications of topic: action/in-action
+09 - Various reports/reviews relate to topic (Garnaut/IPCC)
+10 - Specific examples illustrating topic importance/relevance and responses that are currently applied
+11 - Conclusions about current situation and future projections.

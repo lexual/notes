@@ -1,0 +1,176 @@
+Advanced Guid to Linux Networking and Security
+Ed Sawicki
+Nicholas Wells
+2006
+12 chapters, 2 appendices, 547 pages.
+
+PREFACE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Linux Security Advantages:
+
+Filesystem Structure:
+    related files kept in same directories, e.g. static data files, superuser
+    binary files
+    static and changing files are kept separately.
+    allows set ownership, permissions, acl, etc.
+
+Daemons and Services: 
+    daemons runs as separate users, with only access to minimum files it needs
+
+Jails:
+    using chroot feature, confine daemon to portion of filesystem where it 
+    requires access.
+
+Virtual Machines: 
+    Run daemons in separate machines (virtually), insulates rest of system
+    if the daemon is compromised
+
+Firewall: 
+    advanced firewall available.
+
+Advanced Security: 
+    POSIX Capabilities - limit capababilities
+        e.g. prevent from loading modules after boot time.
+
+
+
+Linux Certification:
+Book objective is to prepare for a linux certification exam.
+LPI (Linux Professional Institute) Level and Level 2.
+Appendix A - more info
+
+
+CH01 - Networking Fundamentals
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*** WK 01 ***
+CH07 - Security, Ethics, and Privacy
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+back door
+    way to gain access only nown to creator/cracker
+biometrics
+    use retina, finger print, etc.
+buffer overflow attack
+CERT Coordination Center (CERT/CC)
+co-locating
+    server not at your location, e.g. at ISP
+computer crime
+cracker
+    gain unauthorized access, may or not be malicous intent
+deface
+    alter homepage
+DoS, denial-of-service attack
+GIAC - Global Information Assurance Certification
+hacker
+    technically astute
+harden
+opt-in
+    to get ads, etc.
+opt-out
+    to get ads, etc. receive by default
+password cracking
+    obtain password by guessing from info, or trying millions
+script-kiddies
+    don't know much, just use off the shelf tools.
+social engineering
+System Administration, Networking, and Security (SANS) Institute
+Trojan horse attack
+    software from untrustworthy source that does bad things.
+worm
+    self-replicating virus
+
+1988 Morris worm, uintended harm due to bug.
+    Slowed down entire Internet
+1998 teen hackers gained access to atomic research center during tensions
+    between India/Pakistan
+
+Kevin Mitnick
+    6yrs in 1994 for cybercrime, unauthorized access to military sites,
+    financial institutions and tech companies
+
+accurate stats on security hard, because don't want to disclose break-ins
+
+privacy, and amount of info about you in databases make security more important
+
+privacy policy, what company will and will not do with info
+identity theft
+
+biometrics - retina better than fingerprint, easy to get someone's fingerprint
+
+"security through obscurity" - noone knows your IP  ,or about your server
+    debunked, no one can hide on the internet
+
+can attack: hardware, software, data, availability
+    data is most precious, hard to recover
+
+security often divided into 4 areas:
+    physical
+    user/password - only actual user can login, authorized
+    file - accessed only by correct people
+    network
+
+no sysadmin should ever ask user for password!
+
+written security policy is good idea
+    what assets are at risk
+    procedures to keep software up to date
+    outline access levels for different users
+    procedures for all users to ensure integrity of system, e.g. min password length
+    procedure to follow when intrusion by cracker is detected, who to inform
+    merge w/ disaster recovery plan
+
+rarely need to upgrade the kernel for security reasons
+
+CERT Coordination center
+    federally funded
+SANS - systems administration, networking, and security instute
+    keeps top 20 list with FBI of attach methods
+    storm center - firewalls monitoring what attacks are out there
+    certification - GIAC - global information assurance certification program
+bastille linux
+    scripts to check for configs that present security hazard
+
+
+
+
+
+
+
+*** WK 02 ***
+CH02 - Configuring Basic Networking
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CH03 - Configuring Client Services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4-6*
+CH04 - Using Simple Network Services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CH05 - Configuring File-sharing Services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CH06 - Configuring Major Network Services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 03 ***
+CH12 - Security Tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 04 ***
+CH11 - Network Security Fundamentals
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 05 ***
+CH08 - File Security
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 06 ***
+CH09 - User Security
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 07 ***
+CH10 - Cryptography
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 08 ***
+7 (re-read)
+*** WK 09 ***
+NA
+*** WK 10 ***
+NA
+*** WK 11 ***
+NA
+*** WK 12 ***
+NA

@@ -1,0 +1,201 @@
+CITE:
+Tietenberg, T. H. 2006, Emissions Trading : Principles and Practice, e-book, accessed 25 July 2011, <http://swin.eblib.com.au.ezproxy.lib.swin.edu.au/patron/FullRecord.aspx?p=592562>.
+
+
+
+Emissions Trading: Principles and Practice, 2nd edition, 2006
+T. H. Tietenberg
+9 chapters, 207 pages
+
+1 - INTRODUCTION
+
+p1
+reduce emissions or acquire emissions from elsewhere.
+
+p2
+by late 50s, economists (Pigou) believed should tax per-unit externalities
+    like pollution
+
+    politicians: regulate, how much for each emitter, mandate technologies, 
+        penalties for non-compliance (command-and-control)
+        economists believe not cost-effective.
+
+p3
+Coase (1960)
+make property rights that are transferable, market to value property
+
+p4
+transferability leads to reductions by those who can do it at least cost
+
+p5
+traditional approach
+bureaucrats choose control technologies, enforcing limits
+emissions trading: burden on control strategy moves from govt to polluter
+firms who can do more, do so and sell to others.
+
+p6
+allows flexibility in timing of cuts vs enforcing all do at same time
+(Atkinson and Lewis 1974, Tietenberg 1974)
+old approach is cost ineffective
+
+** OFFSET POLICY
+1976
+
+EPA - faced with not allowing new businesses (more growth), due to areas
+    already not meeting requirements, and new ones would increase it.
+p7
+    existing could voluntary cut below limit, and get certified and transferred
+    new business needed to enquire 120% of needs (20% retired)
+
+** The US Emissions Trading Program: Expanding the Scope
+ETP
+3 new additions:
+- bubble
+    existing sources can acquire from each other, not just for new sources.
+- banking
+    save credits for later use or sale.
+- netting
+    when modifiying or expanding, don't have to meet strict requirements of new
+        sources, keep net increase below a threshold
+
+p8
+** Lead Phase Out
+lead out of gasoline
+easier to administer on source of lead at refinery, than each vehicle 
+$36 bill savings in health, for $2.6 bill cost for refineries.
+more costly for some than others to implement 
+fixed amount of lead rights given out, could sell if didn't need to use it
+only neede for a few years
+on an input, not an emission
+designed to eliminate input, not reduce below limit
+phase out happened earlier than old method (would have to set date that all
+    could meet)
+
+p9
+** Reducing Ozone-Depleting Chemicals
+Montreal Protocol on CFC need to be eliminated
+US used transferable permit system
+
+p10
+1st system to allow international trade
+
+** Tackling Acid Rain: The Sulfur Allowance Program
+for power plants emitting sulfur
+reduce by 10 mill tons by 2010 from 1980
+most successful to date
+
+
+sulfur dioxide allowances given out
+can use allowance in future year
+per-ton penalty if go over, plus forfeit same amount next year
+penalty $2000 / ton indexed to inflation
+innovation of an auction market
+p12
+allows anyone to buy, can buy and retire
+
+** RECLAIM: The States Take the Initiative
+$45,000 per ton spike, normally at $4,284
+
+p13
+** The NOx Budget Program
+
+p14
+** Emissions Trading in the Kyoto Protocol on Climate Change
+5 years (2008-12) for meeting individual country targets
+    "assigned amount obligations" set out in Annex B
+    multiply 1990 level by reduction factor * 5 (for years)
+    collectively add up to 5%
+
+p15
+
+3 cooperative implementation mechanism
+- ET - Emissions Trading
+    trading among Annex B countries (mostly developed)
+- JI - Joint Implementation
+    finance projects in other Annex B, for countries not fully eligble for ET
+- CDM - Clean Development Mechanism
+    Annex B finance project in non-Annex B
+    
+p16
+** The European Union Emissions Trading Scheme
+largest
+25 countries includeing 10 accession countries (mostly former soviet)
+1st phase, 2005-7 trial phase
+2nd phase, 2008-12, Kyoto Period
+initially only 4 broad sectors: iron & steel, minerals, energy, pulp & paper.
+    include sectors larger than specific thresholds
+    12,000 installations 
+individual countries set initial allocations by 2-step processes
+    - how much of predefined cap to each sector
+    - how much allocation to each installation within the sector
+        controversial! different cost for competitors in different countries
+allocations of permits free, may be auctioned in the future
+    up to 5% auctioned in 1st phase
+    up to 10% in 2nd
+Can use credits from outside EU (JI or CDM) 
+
+
+p20
+
+lower costs, or lower reductions at same cost
+
+
+Overview
+ch02 - theory
+ch03 - magnitude of cost savings
+ch04-5 - spatial and temporal dimensions of trading
+ch06 - initial allocation
+ch07 - market power
+ch08 - monitoring and enforcement
+ch09 - comprehensive evaulation
+
+
+CHAP 02 - The Conceptual Framework
+summary:
+p25
+
+
+
+CHAP 03 - The Copnsequences of Emissions Trading
+summary:
+p48
+
+
+
+CHAP 04 - The Spatial Dimension
+summary:
+probably not relevant.
+p75
+
+
+
+CHAP 05 - The Temporal Dimension
+summary:
+p107
+
+
+
+CHAP 06 - The Initial Allocation
+summary:
+p127
+
+
+
+CHAP 07 - Market Power
+summary:
+p144
+
+
+
+CHAP 08 - Monitoring and Enforcement
+summary:
+p165
+
+
+
+CHAP 09 - Lessons
+summary:
+p188
+
+
+

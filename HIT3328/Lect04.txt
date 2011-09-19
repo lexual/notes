@@ -1,0 +1,109 @@
+LECTURE 04
+===========
+
+TITLE
+Complex Interactions
+
+OVERVIEW
+* Recap
+* Passing Data between Activities
+* Data passing methods
+* Activity Design Choice
+* Activity Life Cycle
+* Passing Data Demo (using Global Variables)
+* Application Manifest Fie
+* Passing Data Demo (using Intents)
+* Controlling Input Type
+
+
+
+
+* Recap
+
+* Passing Data between Activities
+
+Do we?
+share data as global variables to all activities
+move data to separate data layer
+send primitive data bundles between activities/screens.
+
+* Data passing methods
+
+global variables for all, ok if constant values
+need to manage how many objects can change the value of the global variable
+
+data layer - in a dbms
+overkill if only a few values
+
+bundles
+put data into bundles and pass across using "messaging framework"
+
+for iOS
+    can pass data directly to methods in another screen, UIViewController
+    can't do this for Android.
+
+    Apps are managed by iOS not activities
+
+in Android, Activities are managed by OS
+
+
+* Activity Design Choice
+
+
+only one activity is in the foreground at a time.
+put into background (paused), when something goes in front of it.
+Activites on a stack, back button pops off the top one, or exits if last one.
+
+
+* Activity Life Cycle
+
+* Passing Data Demo (using Global Variables)
+
+All activities have a parent Application object.
+Can store data in this object as globa variable.
+
+to do this we extend the appliation cass, need to specify in manifest file.
+
+* Application Manifest Fie
+
+contains activity names
+refers to icon and  app name, and label
+
+public class FoodApp extends Application
+{
+    private String globalVar;
+
+    ...
+}
+
+
+* Passing Data Demo (using Intents)
+
+store data in a bundle
+send an asynchronous message (intent, like an email)
+
+    Intent intent = new Intent();
+    // getApplicatonContext() is the class that is sending the message
+    // swin.examples.FoodView.class is the class that is receive the message
+    intent.setClass(getApplicatonContext(), swin.examples.FoodView.class);
+    intent.putExtras(dataBundle);
+    startActivity(intent);
+
+    // on receiving end.
+    Bundle dataBundle = getIntent().getExtras();
+    String foodName = dataBundle.getString("name");
+    Drawable foodImg = getResources().getDrawable(dataBundle.getInt("image"));
+
+intent message are asynchronous (like email)
+    receiver will receive only if they request to see intents via getIntent() 
+all transmitted messages are placed on a 'service queue'.
+
+* Controlling Input Type
+
+e.g. restrict input on a form, email addresses only
+android:inputType
+    textUri
+    textEmailAddress
+    ...
+// bitwise-OR operator
+android:inputType="numberSigned|numberDecimal"

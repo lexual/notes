@@ -1,0 +1,128 @@
+July
+sg db
+kk testing
+adidas email acquisit
+tru script
+sg store locator
+competition draw
+layar
+Alfred
+VRC Wip
+
+Aug
+VRC Wip
+sg db extract
+SMS
+testing
+TRU export functionality
+VRC Quest
+TRU product upload
+MOVE upstairs
+SMS interface
+
+Sept
+SMS
+vrc wip
+ripe bugfix
+equity advance
+layar 
+thesource
+
+Oct
+theSource
+SMS
+OCRF redev
+TRU work
+
+Nov
+source
+vrc wip
+citrus website
+TRU move to S3
+Boozy lunch
+KikkiK bugfix
+TRU wip
+
+Dec
+SMS
+R&D - south, virtualenv
+vrc wip
+citrus website
+
+Jan
+R&D
+Central equity work
+testing
+citrus blog amends
+Garnier app
+
+Feb
+Ripe upload
+Central Equity
+Garnier App
+
+Mar
+Garnier App
+2nd IBL visit
+
+Apr
+Devo leaves
+Garnier
+
+May
+VRC
+Garnier
+Training/handover
+mac setup
+VirtualEnv
+
+########
+July
+Adidas
+SG store locator
+Competition draw
+Alfred
+VRC Wip
+
+SMS - Aug - Oct
+
+misc
+TRU
+kikkik
+
+Sept
+Equity Advance
+
+Source
+Sept-Oct
+
+Oct
+OCRF redev
+
+Nov
+TRU to S3
+
+citrus website
+Nov - Dec
+
+Dec - Jan
+R&D - south, virtualenv
+
+Jan
+Central Equity
+
+Garnier
+Jan - May
+
+Feb
+Ripe upload
+
+Apr
+Devo gone
+
+May
+VRC
+handover
+mac setup
+virtualenv
+fab

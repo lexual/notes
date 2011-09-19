@@ -1,0 +1,75 @@
+SN
+total of 37
+001 - As the Work Turns -- the first Internet works of 2005
+003 - NAT Routers as Firewalls
+004 - Personal Password Policy
+005 - Personal Password Policy -- Part 2
+006 - Mechanical & Electromagnetic Information Leakage
+007 - SPYaWAREness
+008 - Denial of Service (DoS) Attacks
+009 - Rootkits
+012 - Sony's "Rootkit Technology" DRM (copy protection gone bad)
+020 - A SERIOUS new Windows vulnerability -- and Listener Q&A
+021 - The Windows MetaFile (WMF) Vulnerability
+022 - The Windows MetaFile Backdoor?
+025 - How the Internet Works, Part 1
+026 - How the Internet Works, Part 2
+027 - How Local Area Networks Work, Part 1
+029 - Ethernet Insecurity
+031 - Symmetric Stream Ciphers
+033 - Symmetric Block Ciphers
+034 - Public Key Cryptography
+035 - Cryptographic Hashes
+037 - Crypto Series Wrap-up
+038 - Browser Security
+039 - Buffer Overruns
+042 - NAT Traversal
+043 - Open Ports
+047 - Internet Weaponry
+049 - The NETSTAT Command
+050 - Virtual Machine History & Technology
+053 - VMware
+057 - Virtual PC versus VMware
+062 - Internet Proxies
+064 - Listener Feedback Q&A #12
+065 - Why is Security So Difficult?
+068 - Listener Feedback Q&A #13
+078 - DEP in Depth
+191 - GhostNet
+193 - Conficker
+
+Computer Security Fundamentals
+Easttom (2006)
+368 pages
+10/12
+ch01 - Introduction to Cyber Crime and Security
+ch02 - Networks and the Internet
+ch03 - Assessing a Target System
+ch04 - Denial of Service Attacks
+ch05 - Malware
+ch06 - Basics of Assessing and Securing a System
+ch07 - Encryption
+ch08 - Internet Fraud, and Cyber Crime
+ch09 - Industrial Espionage
+ch10 - Cyber Terrorism and Information Warfare
+
+Advanced
+Sawicki-Wells (2006)
+648 pages
+11/12
+ch02  - Configuring Basic Networking
+ch03  - Configuring Client Services
+ch04* - Using Simple Network Services
+ch05* - Configuring File-Sharing Services
+ch06* - Configuring Major Network Services
+ch07! - Security, Ethics, and Privacy (read & re-read)
+ch08  - File Security
+ch09  - User Security
+ch10  - Cryptography
+ch11  - Network Security Fundamentals
+ch12  - Security Tools
+
+LINKS
+wk04
+http://www.grc.com/codered/codered.htm
+

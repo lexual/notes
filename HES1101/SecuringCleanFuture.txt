@@ -1,0 +1,827 @@
+SOURCE: 
+http://www.cleanenergyfuture.gov.au/clean-energy-future/securing-a-clean-energy-future/
+
+CITATION:
+Department of Climate Change and Energy Efficiency 2011,
+Securing a clean energy future: The Australian Government's Climate Change Plan,
+Department of Climate Change and Energy Efficiency, Canberra
+
+
+
+MPCCC - Multi-party Climate Change Commission
+ETS - emissions trading scheme
+
+@pvii - Key Messages
+around 500 biggest polluters will pay
+one permit per tonne of carbon pollution
+fixed price until ETS in 2015
+
+tax cuts, plus increases in pensions, allowances and benefits.
+over 50% of revenue spent on households
+household transport fuel not subject to carbon price
+
+Industry Assistance
+supporting: 
+    emissions-intensive, trade-exposed industries
+    manufacturing,
+    food processing
+    metal forgers
+    foundries
+    electricity generators
+    small business
+    separate assistance for coal & steel (not agreed to by MPCCC)
+
+CEFC - Clean Energy Finance Corporation
+$10 billion to invest in renewables, low carbon tech and energy efficiency
+
+reduction of up to 2000 megawatts of high polluting energy generation by 2020
+
+
+@pviii - Key Messages
+For Farmers:
+    CFI - Carbon Funding Initiative
+    CFF - Carbon Farming Futures
+    Biodiversity Fund
+    
+    Agriculture not subject to carbon price
+
+Energy Efficiency
+    LCC - Low Carbon Communities
+        will help local councils & communities improve energy efficiency
+    LIEEP - Low Income Energy Efficiency Program
+    govt will expedite a national energy savings institute.
+
+@pix - Executive Summary
+QUOTE:
+"This plan has been devised in response to clear scientific advice that
+the world is warming, that carbon pollution from human activity creates
+significant risks and that we can avoid the worst potential impacts by
+reducing carbon pollution."
+
+4 elements:
+    carbon price
+    renewable energy
+    energy efficiency
+    action on the land
+
+QUOTE:
+"Australia's carbon pollution is still growing by almost 2 per cent each year."
+
+@page x
+QUOTE:
+"The evidence that the world is getting warmer is unequivocal. In
+Australia and across the globe, 2001 to 2010 was the warmest decade
+on record. In Australia, each decade since the 1940s has been warmer
+than the last."
+
+QUOTE:
+"Australia is a hot and dry continent. This means that amongst the
+world’s developed countries, Australia faces acute risks. Studies
+indicate that warming of more than 2 degrees Celsius will overwhelm
+the capacity of many of our natural ecosystems to adapt. With that
+level of warming, for instance, the survival of the Great Barrier Reef will
+be in jeopardy as higher ocean temperatures and acidity levels cause
+major changes to coral reefs."
+
+@page xi
+
+electricity is Australia's largest source of carbon pollution,
+    just over 1/3 of total
+
+QUOTE:
+"deforestation, reforestation, aforestation -- contribute 3 per cent to 
+    Australia's total carbon pollution"
+
+'fugitive emissions'
+    mainly methane from coal/gas mines
+    also landfills & pollution from industrial processes
+
+emissions forecast to be 22% above 2000 levels in 2020
+
+
+QUOTE:
+" The Government has committed to reduce carbon pollution by 5 per
+cent from 2000 levels by 2020 irrespective of what other countries do,
+and by up to 15 or 25 per cent depending on the scale of global action.
+These targets will require cutting expected pollution by at least 23 per
+cent in 2020.
+The Government also commits to a new 2050 target to reduce
+emissions by 80 per cent compared with 2000 levels, in line with
+targets announced by the United Kingdom and Germany."
+
+
+@page xii
+Treasury modelling estimates (under core policy scenario):
+    * large-scale renewable (excluding hydro), project to be 18 times bigger 
+        current size by 2050.
+    * total renewable (including hydro) compromise around 40 per cent of 
+        power generation in 2050.
+    * gas-fired electricity increase by over 200% by 2050.
+
+@page xiii
+2012-5
+    * fixed price of $23/tonne increasing 2.5% per annum in real terms
+July 1 2015 - transition to flexible price under ETS
+
+Transport
+    * not covered by carbon price mechanism, but an equivalent will be charged
+        to some fuels by changes to excise or fuel tax credits.
+    * carbon price applied to: domestic aviation, domestic shipping, rail 
+        transport, non-transport use of fuels.
+    * exempt: household fuel, light vehicle business, off-road uses.
+    * introduce price July 1 2014 for heavy on-road liquid fuel use
+        (not all MPCCC agreed to this)
+
+linking to international permits, but a company can only use a max of 50%
+    permits that are international
+
+price ceiling & floor:
+    * ceiling: $20 above expected international price, increasing 5% in real
+        terms
+    * floor: $15 rising 4% in real terms
+
+CFI - Carbon Farming Iniative
+    - 5% max limit in fixed-price period
+    - Kyoto-compliant credits to be created
+
+3 bodies:
+    CCA - Climate Change Authority
+       advise on pollution targets/caps
+    CER - Clean Energy Regulator
+        administer the carbon pricing mechanism
+    PC - Productivity Commission
+        review industry assistance, fuel tax arrangements, international 
+        carbon reduction activities.
+
+@page ix - Households
+$9.90 weekly cost to households
+$10.10 average assistance to be received
+CPI (consumer price index) expected to rise 0.7 in 2012-13.
+2/3 households to be fully compensated
+9/10 to receive some assistance
+raise tax-free threshold from $6k to $18,200 (1 million won't need tax-return)
+    2nd phase in 2015 (another 100K won't need tax-return) raise to $19,400
+
+@page xv
+pensions/allowances/benefits to increase
+
+Supporting Jobs
+40% revenue to supporting businesses and jobs
+JCP - Job & Competitiveness Program
+    emissions-intensive trade-exposed activities gets assistance
+    (mainly manufacturing)
+also support for:
+    food processing
+    metal forging
+    foundry industries
+
+@page xvi - Encouraging Clean Energy
+$10 billion CEFC
+ARENA - Australian Renewable Energy Agency
+    * administer $3.2 billion for:
+        R&D, demonstration & commercialisation of renewable energy
+
+
+Supporting Energy Markets
+ESF - Energy Security Fund (ch7)
+    to ensure smooth transition and energy security
+strongly affected generators to get assistance in return for adopting clean
+    energy investment plans showing how they will reduce their pollution
+
+@page xvii
+Energy Efficiency
+LCC - Low Carbon Communities
+    promotoe energy efficiency at local level & low-income households
+
+LAND
+CFI - to create Kyoto-compliant credits via farming practices that reduce 
+    carbon
+Biodiversity Fund
+CFF - Carbon Farming Futures
+    support R&D, measurement approaches& action on the ground to reduce
+        emissions or store carbon
+
+
+CHAPTER 01 - The Need for Action
+p6
+QUOTE:
+"Governments around the world have agreed to limit carbon pollution so that
+average global temperature rise can be held below 2 degrees Celsius above
+pre-industrial levels, which is broadly consistent with global concentrations
+of 450 parts per million."
+
+CHAPTER 02 - Plan for Action
+p11
+565 million tonnes 2009 (last year with figures)
+1.5% of global
+top 20 polluting countries
+QUOTE:
+"Australia’s carbon pollution represents 1.5 per cent of global emissions
+of greenhouse gases. That makes us one of the top 20 polluting
+countries in the world. Our annual carbon pollution is roughly the same
+as that of countries like Spain, France, Italy, South Korea and the
+United Kingdom. All of those countries have populations two to three
+times larger than Australia. In fact, Australia produces more carbon
+pollution per head of population than any developed country in the
+world, more even than the world’s biggest economy, the United States."
+
+p12-13
+Carbon breakdown:
+    * 37% electricity generation
+    * 15% direct fuel combustion
+    * 15% agriculture
+    * 15% transport
+    * 7% fugitive emissions
+    * 5% industrial processes
+    * 3% waste
+    * 3% deforestation and forestry
+    Pie Chart
+    SOURCE: 2009 emissions from the National Greenhouse Gas Inventory 2011,
+            DCCEE analysis.
+
+QUOTE:
+"our carbon pollution is projected to rise to 679 million tonnes in 2020 in
+the absence of further action. That represents an increase of 22 per cent over
+the two decades from 2000 to 2020."
+QUOTE:
+"The scientific advice is that stabilising concentrations of carbon pollution
+in the atmosphere at 450 parts per million provides a reasonable chance of
+avoiding the most dangerous impacts of climate change by limiting global
+temperature rises to less than 2 degrees Celsius."
+
+
+
+p14
+159Mt CO2eq or 23% cut
+
+p15
+2.2.2
+ipcc say 450ppm means 2050 of 80-95% below 1990
+QUOTE:
+"As part of its plan to secure a clean energy future, the Government has adopted a new
+long-term target: to reduce carbon pollution by 80 per cent compared with 2000 levels
+by 2050.
+This is consistent with the findings of the Intergovernmental Panel on Climate Change’s
+Fourth Assessment Report that, to stabilise concentrations of carbon pollution at 450 parts
+per million, 2050 targets for developed countries should be between 80 to 95 per cent below
+1990 emissions. Treasury modelling shows this target can be achieved with modest cost to
+our economy.
+The Australian Government’s long-term target is also consistent with targets announced by
+other developed countries, including the United Kingdom and Germany."
+
+@p16
+QUOTE:
+"Thirty-one European countries — including the
+United Kingdom, Germany and France — have a price on carbon pollution through
+emissions trading schemes. New Zealand started emissions trading in 2008. Carbon taxes
+are also in place in the United Kingdom, India, Switzerland, Denmark, Finland, Norway,
+Sweden, the Netherlands, Costa Rica and Ireland."
+
+according to productivity commision report
+QUOTE:
+"In electricity generation, Australia’s current policies are reducing carbon
+pollution by around 3 to 5 per cent below what would have happened if no
+action had been taken. This is comparable to the impact of current policies in
+China and the United States."
+
+"However, Australia is not a global leader. The Commission’s estimates show
+Australia is well behind the United Kingdom and Germany, where current policies
+are reducing pollution by electricity generators by around 8 to 15 per cent and 18 to
+20 per cent respectively."
+
+"The Productivity Commission study strongly supports market-based mechanisms for
+cutting pollution. Using the market to put a price on pollution was found to be a
+much cheaper policy approach than government regulation or subsidies. Emissions
+trading schemes in the European Union and New Zealand had the lowest costs for
+every tonne of carbon pollution reduced of the over 1000 policies studied.
+"
+
+
+CHAPTER 03 - Putting a price on pollution
+p21
+50 largest polluters responsible for 75% of pollution covered by carbon price
+
+p22
+
+p24
+!!! graph - domestic modest reduction, most abatement from overseas.
+    from Treasury modelling.
+treasury modelling - pollution growth slows
+
+p25
+in flexible period, businesses will also have access to international carbon
+markets to buy permits which represent credible reductions in carbon pollution
+internationally
+
+surrender permits to govt
+
+
+p26
+$23 2012 July 1
+increase 2.5% inflation + 2.5% extra
+$24.15 2013-14
+$25.50 2014-15
+1 July flexible 2015
+one permit per tonne
+    some sold by govt by auction
+    some allocated at no charge to support jobs, competitiveness, and help
+        strongly effected industries to transition to a clean energy future.
+setting cap
+    2015-19 set may 2014
+    2020 set June 2016
+    2021 set June 2017
+
+p27
+CCA - Climate Change Authority - statutory body
+    advise govt on targets.
+    1st review by Feb 2014
+    review floor & ceiling in 2017
+safety valves for 3yrs, reviewed in 2017 by CCAuthority
+    ceiling of $20 higher than international price at July 1 2015
+    floor of $15 for 2015-16
+coverage:
+    stationary energy,
+    waste,
+    rail,
+    domestic aviation & shipping,
+    industrial processes
+    & fugitive emissions
+from July 2014, include heavy on-road vehicles (MPCCCommittee)
+    (probably independents?)
+QUOTE:
+"Over half of Australia’s emissions will be directly covered by the carbon
+pricing mechanism and around two-thirds will be covered by a carbon price
+applied through various means."
+
+p28
+farming and land use not included
+covers 4/6 kyoto GHG
+    co2, methane, nitrous oxide, perfluorocarbon emissions from aluminium
+    other 2 will face equivalent price applied by existing legislation
+applied to large suppliers of natural gas
+or facilities with over 25K tonnes co2-eq/yr (excluding transport fuels)
+lower threshold for some landfill facilities
+natural gas retailers liable for use by customers.
+
+p29
+Transport
+household and light-commercial vehicles not include fuel
+exclude agriculture/forestry/fishing off-road fuel
+carbon price applies to fuel in domestic aviation, marine and rail transport
+
+transport fuels not in mechanism but:
+    fuel tax credits or changes in excise to have same price as carbon price
+
+p30
+household cuts - 4 ways
+    - taken into account when setting caps, treated as additional when 
+        accounting for targets post-2012
+    - can buy & voluntarily cancel permits
+    - tax-deductible Pledge Fund established to buy and cancel permits
+    - accredit GreenPower purchases to be treated as voluntary action
+
+CFI - carbon farming initiative
+    can only be 5% of anyones permits
+QUOTE:
+"The Carbon Farming Initiative will reward farmers and land managers who
+take steps to reduce pollution. It will do this by creating credits for each tonne of carbon
+pollution that farmers and land managers reduce or store on the land. These credits can then
+be sold to businesses that want to offset their carbon pollution. Credits that are
+Kyoto-compliant can be used to meet liabilities under the carbon pricing mechanism. In the
+fixed price period, liable parties will be able to meet no more than 5 per cent of their
+obligations using Carbon Farming Initiative credits"
+
+International linking
+starts in flexible-price period.
+    
+    p31
+    until 2020, 50% permits max overseas permits
+farmers can sell CFI credits overseas.
+
+QUOTE:
+"The price of international permits will act as an additional safety valve on carbon prices in
+Australia. If reducing carbon pollution in Australia is more expensive than reducing carbon
+pollution in another country, Australian firms will be able to purchase an international permit.
+With international linking, the carbon price in Australia will be set by international supply and
+demand for permits."
+
+CER - Clean Energy Regulator
+    * administer carbon pricing mechanism & CFI
+    * Renewable Energy Target
+    * National Greenhouse & Energy Reporting System
+
+
+QUOTE:
+"The Climate Change Authority will review pollution caps, the future trajectory of Australia’s
+pollution levels and the performance of the carbon price and will track Australia’s progress
+towards meeting its targets for reducing carbon pollution.
+QUOTE:
+"The Productivity Commission will review industry assistance under the Jobs and
+Competitiveness Program and the Coal Sector Jobs Package."
+
+    
+CHAPTER 04 - Helping households
+
+p37 
+2012-13
+$18,200 tax-free threshold
+
+2015-16 threshold raised to $19,400
+marginal tax rates get adjusted upwards to reflect this change.
+
+p39
+QUOTE:
+"For single pensioners, the cost of living impact for a pensioner with no other income is
+expected to be $204 in 2012-13. In 2012-13, this person will receive an increase in
+their pension of $338, more than offsetting their expected average cost of living
+increase."
+QUOTE:
+"The average cost of living impact for a family with two teenage school children, where
+each parent earns $50,000, is expected to be $653 in 2012-13. Through a combination
+of reductions in personal income tax and increases in the Government payments such
+as the Family Tax Benefit, the family will receive household assistance of $679."
+QUOTE:
+"Using the revenue from carbon pricing to help families in this way does not cancel out
+incentives to reduce pollution. Households will still face changes in relative prices, with goods
+made with fewer emissions becoming relatively cheaper. By choosing less carbon emission
+intensive goods and services, and taking simple actions to improve energy efficiency in their
+daily lives, households can save money. These savings will come on top of the increased tax
+cuts and payments that households will continue to receive."
+
+p40
+Household Assistance
+* pensioners and self-funded retirees will get up to $338 extra per year if they are single,
+    and $510 per year for couples, combined
+* families receiving Family Tax Benefit Part A will get up to an extra $110 per child
+* single income families with children will get up to $69 extra in Family Tax Benefit Part B
+    plus up to $300 in an additional supplement
+* allowance recipients will get up to $218 per year for singles, and $390 per year for
+    couples, combined
+* on top of this, all taxpayers with annual income of under $80,000 will get a tax cut, with
+    most receiving at least $300 per year.
+
+
+p42
+People on Family Tax Benefits & pensioners,  Commonwealth Seniors Health Care Card
+    * will get an up front payment to cover 2012-13. Clean Energy Advance in 
+            June 2012
+    * from July 13, will receive ongoing supplement payment
+
+
+
+p44
+QUOTE:
+"The Government is also introducing the Essential Medical Equipment Payment of
+$140 per year. This payment will be available to provide extra help for the eligible
+110,000 people in Australia who face additional and unavoidable electricity costs owing to
+medical conditions or disabilities and hold a relevant concession card. People in this situation
+might use equipment such as a home dialysis machine, or they may have thermoregulatory
+dysfunctions which mean that they require additional heating or cooling to regulate their body
+temperature."
+
+p45
+QUOTE:
+"The overall increase in prices is expected to be quite modest: the average increase in
+expenditure across all households is expected to be around $9.90 a week in 2012-13. This
+includes an average estimated increase in household electricity expenditure of around
+$3.30 per week, and gas of $1.50 per week. On average, food will go up by less than
+$1 per week for households."
+
+p46
+QUOTE:
+"After the carbon price is introduced, households can continue to consume the same things,
+but the carbon price means that they will have a financial incentive to consider alternatives.
+This is because the change in the prices of goods and services which are produced with
+relatively lower levels of carbon pollution will be less than the change in the prices of
+high-pollution goods and services. These price differences mean consumers will take carbon
+pollution into account when they make everyday decisions about what they buy. A product
+made in a more energy-efficient factory will cost less than the same product from a less
+energy-efficient factory. Households choosing the first product will be rewarding cleaner
+production. In this way households will be supporting Australia’s move to a clean energy
+future — and household assistance will not blunt these price signals."
+
+
+
+
+CHAPTER 05 - Supporting Jobs
+
+p52
+40% of revenue to help business & support jobs
+JCP - Jobs & Competitiveness Program
+    $9.2 bill, manufacturing & heavy industry are energy intensive & trade
+        exposed
+CTP - Clean Technology Program
+    $1.2 bill. includes
+        $200 mill assist food manufacturers, metal forging & foundry
+        $200 mill support investment in clean technology innovation
+2 initiatives to support jobs for steel & coal mining (MPCCC didn't agree)
+
+p54
+JCP - protect from carbon leakage (industry going to country with out carbon
+        price)
+approx 40-50 entities to be eligible for JCP
+    e.g. aluminium, steel, cement production, petrol refinery, pulp & paper
+    allocated free of charge permits
+    2 tiers - 94.5% (for most trade-exposed energy-intensive) & 66%
+    reducing by 1.3%/yr
+    50% free permits for LNG
+    free allocation based on historic emissions - encourages savings
+
+    5yr guarantee, 3yr warning of change
+    Productivity Commission to review 2014-15 & regularly following that
+
+p57
+$1.2 billion CTP
+    - $800 mill CTIP (Clean Technology Investment Program)
+        grants for  investment in energy-efficient equipment or low pollution
+        technologies, $1 co-investment for every $3 that business contributes
+        eligible are Manufacturing business that:
+            * are part of 500 to pay carbon price
+            * have facilities using more than 300 MWhr/yr electricity
+            * have facilities using five terajoules gas/yr
+
+    - Clean Technology - Food & Foundries Investment Program
+        - for food processing, metal forging, and foundry industries
+        $1 co-investment for every $3 that business contributes
+        $150 million over 6yrs for food processors
+        $50 million over 6ys for metal forging & foundries
+
+    - CTIP - Clean Technology Innovation Program
+        $200 million over 5yrs supporting R&D in:
+            * renewable energy
+            * low-pollution technology
+            * energy efficiency
+        $1 co-investment for every $1 that business contributes
+    - $32 million Clean Energy Skills
+        Funding of around $32 million will help educational institutions and industry develop the
+        materials and expertise needed to promote clean energy skills. Tradespersons and
+        professionals will develop the skills needed to deliver energy efficiency services, clean
+        energy projects and low pollution products to Australian households, communities and
+        businesses.
+
+p59
+QUOTE:
+"The Government will maintain this approach under the clean
+energy plan, setting aside $200 million in funding for regions in the event that they are
+affected by the introduction of a carbon price.
+The Department of Regional Australia, Regional Development and Local Government will
+monitor the socio-economic impacts of the carbon price on regions to identify areas where
+impacts are acute and structural adjustment assistance may be required. Funding will
+support regional communities on a case-by-case basis. Examples of programs that may be
+supported through this program include support for displaced workers and their families,
+support for affected small businesses, community development programs and economic
+diversification programs."
+
+CHAPTER 06 - Innovation in renewable energy
+
+p63
+$10 billion CEFC - Clean Energy Finance Corporation
+ARENA - Australian Renewable Energy Agency to adminsiter $3.2 billion for:
+    r&d, demonstration and commercialisation of renewable energy
+
+p64
+QUOTE:
+"The Renewable Energy Target means that 20 per cent of Australia’s electricity will come
+from renewable sources by 2020. This, combined with other elements of the Government’s
+plan, including the carbon price, will drive $20 billion of investment in large-scale renewable
+energy by 2020 in today’s dollars."
+
+CEFC
+    $10 billion invest in the commercialisation and deployment
+    of renewable energy, energy efficiency and low-pollution technologies.
+
+p65
+    50/50 split between renewable energy and clean energy
+    * The clean energy stream will invest more broadly; for example, in low-emissions
+      cogeneration technology, but will still be able to invest in renewable energy.
+    - won't invest in CCS - carbon capture and storage
+    independant corporation from govt
+    loans that will be reinvested when repaid
+    similar to UK's Green Investment Bank
+
+ARENA
+    independant statutory body
+    take over management of existing grant based renewable energy programs
+    administer $3.2 billion
+Clean Technology Innovation Program
+    $200 mill over 5yrs supporting business investment in r&d of clean techonologies.
+    This will provide
+    grants to support R&D, proof-of-concept and early-stage commercialisation in renewable
+    energy, low-pollution technology and energy efficiency. These grants will be in addition to the
+    broader R&D tax concession and will be provided on a co-contribution basis.
+
+p67
+RET - Renewable Energy Target, 2020 have 20% electricity by renewables
+    * wind is fasting growing source
+    * wind capacity increased from 100MW in 2001 to 2000MW
+
+
+CHAPTER 07 - Supporting Energy Markets
+p71
+75% current electricy from coal
+    approx twice pollution of natural gas
+    gas 16%
+    8% renewables
+QUOTE:
+"Reflecting the historical availability of low-cost coal in Australia, coal-fired generation
+currently accounts for around 75 per cent of Australia’s electricity. However, burning coal
+puts large amounts of carbon pollution into the atmosphere. For every unit of electricity
+produced, conventional coal-fired generation releases around twice as much carbon pollution
+as generating electricity by burning natural gas. Yet gas-fired generation currently only
+accounts for around 16 per cent of Australia’s electricity. Generating electricity from
+renewable resources like wind or solar power puts no carbon pollution into the atmosphere.
+Renewable electricity currently accounts for around 8 per cent of Australia’s power supplies."
+
+p72
+QUOTE:
+"Australia relies more heavily on coal-fired electricity generation than most other countries,
+and this is reflected in the higher pollution intensity of our electricity supplies. The
+International Energy Agency highlights that, in 2008, Australia’s electricity generators
+released an average of 0.88 tonnes of carbon pollution for every megawatt hour of electricity
+generated. This is significantly higher than countries like the United States (which released
+0.54 tonnes for every megawatt hour of electricity generated), the United Kingdom (0.49),
+New Zealand (0.21) and Canada (0.18). In fact, Australia had the highest polluting electricity
+sector of all OECD countries. And among the 80 developing countries examined by the
+International Energy Agency, only India, Cambodia and Cuba had more polluting electricity
+sectors."
+
+.88 tonnes per megawatt hour (2008) highest in OECD
+        only India, Cambodia & Cuba worse
+    .54 in US
+    .21 NZ
+
+p74
+Energy Security Fund - $5.5bill
+    2 main initiatives:
+    * close 2000MW of high-polluting capacity by 2020
+    * transitional assistance to highly emissions-intensive coal-fired power stations
+
+
+p75
+QUOTE:
+"Assistance for strongly affected generators
+The Government will also help generators that face sizeable asset value losses under a
+carbon price. As a condition of receiving assistance, generators will need to meet system
+security requirements. They will also need to provide clean energy investment plans, which
+will be made public. These plans will need to identify their proposals to reduce pollution from
+existing facilities and to invest in research and development and new capacity. Information
+on possible projects identified under the Energy Efficiency Opportunities program will also be
+included in these plans.
+This transitional assistance measure will comprise a limited free allocation of Australian
+carbon permits and cash allocated until 2016-17, estimated at $5.5 billion and amounting to
+around 23 per cent of the coal-fired power stations’ expected liability over this time."
+
+
+This transitional assistance measure will comprise a limited free allocation
+of Australian carbon permits and cash allocated until 2016-17, estimated at
+$5.5 billion and amounting to around 23 per cent of the coal-fired power
+stations’ expected liability over this time.
+
+p76
+AEMO - existing entity
+    Australian Energy Market Operator - plans the national grid
+    asked to consider implications of moving to a 100% renewables
+
+
+CHAPTER 08 - Improving Energy Efficiency
+CHAPTER 09 - Creating Opportunities on the land
+
+p91
+agriculture excluded from carbon price
+CFI - Carbon Farming Initiative
+BF - Biodiversity Fund
+    $946 million over 1st 6yrs
+CFF - Carbon Farming Futures
+    $429 million over 1st 6yrs
+
+p93
+CFI possible actions:
+    * reforestation and revegetation
+    * reduced methane emissions from livestock digestion
+    * reduced fertiliser pollution
+    * manure management
+    * reduced pollution or increased carbon storage in agricultural soils (soil carbon)
+    * savanna fire management
+    * native forest protection
+    * forest management
+    * reduced pollution from burning of stubble and crop residue
+    * reduced pollution from rice cultivation
+    * reduced pollution from legacy landfill waste.
+
+Credits generated under the Carbon Farming Initiative that are recognised for Australia’s
+obligations under the Kyoto Protocol on climate change can be sold to companies with
+liabilities under the Carbon Pricing Mechanism (see Chapter 3). This includes credits earned
+from activities such as reforestation, savanna fire management and reductions in pollution
+from livestock and fertiliser.
+
+p94
+Biodiversity Fund
+    $946 million over 1st 6yrs
+
+    
+p95
+CFF
+    $201 million 1st 6yrs
+    research store & reducing carbon in land sectors
+
+
+APPENDIX A - Carbon pricing mechanism
+
+p103
+fixed price: 1 July 2012-15, 3yrs
+    raising 2.5% above inflation
+    2012-13 $23.00/tonne
+    2013-14 $24.15/tonne
+    2014-15 $25.40/tonne
+    purchased permits can't be traded or banked for future use
+    free permits: can sell back them to govt
+ETS/cap&trade
+    1 July 2015 start
+    pollution cap amount for first 5 years announced in 2014 Budget
+        2015-16, 2016-17, 2017-18, 2018-19, 2019-20
+    each following year, announce cap for 5 years in future.
+        e.g. in 2015-16, announce 2020-21 cap, etc.
+
+p104
+price ceiling: set in May 2014 at $20 above expected internatonal 2015-16 price
+    rises by 5% each year inflation
+    * applies for 1st 3 yrs
+price floor: 
+    * applies for 1st 3 yrs
+    starts at $15 rising 4% above inflation
+unlimited banking of permits: e.g. can save this years permits for later use.
+
+What's covered?
+QUOTE:
+"The carbon pricing mechanism will have broad coverage of emission sources from
+commencement, encompassing: stationary energy; industrial processes; fugitive emissions (other
+than from decommissioned coal mines); and emissions from non-legacy waste.
+An equivalent carbon price will be applied through separate legislation to some business transport
+emissions, non-transport use of liquid and gaseous fuels, and synthetic greenhouse gases."
+
+p105
+threshold for having to pay:
+    a facility emitting 25,000 tonnes/yr of co2-eq
+natural gas:
+    natural gas retailers are responsible for their customers emissions.
+transport:
+    carbon price applied to other business transport emissions from liquid use
+        (rail & shipping), applied by reducing business fuel tax credits.
+    aviation fuel (domestic use): carbon price applied through increased fuel excise.
+
+p106
+one carbon permit equals one tonne carbon
+must discharge permits by 1 Feb for the previous financial year.
+
+p107
+CFI
+    in fixed price period: max of 5% of permits from CFI
+    in flexible: no limit
+    can be banked for future use
+    can be exported internationally
+International linking
+    no international permits allowed in fixed-price period, or exporting of permits.
+    flexible period:
+        * can buy permits from overseas
+        * until 2020, max of 50% permits can be from overseas 
+            CCA to review this in 2016.
+    
+    domestic permits may be exported:
+        * after price ceiling removed
+        * govt has link to other countries ETS
+
+    eligibility:
+        * CERs - certified emissio reductions from Clean Development Mechanism under Kyoto
+        * ERUs - emission reduction units from Joint Implementation projects under kyoto
+        * RMUs - removal units under kytot on bases of land use change & forestry
+        * other units govt allows
+
+    The Climate Change Authority will advise on the integrity of international
+        units, and recommend which units should be accepted and which should be
+        prohibited.
+    may link to other ETS's: EU or NZ in future
+
+p110
+    CCA details
+    The Authority will be made up of nine experts with a particular focus on climate science,
+    economics, climate change mitigation, emissions trading, investment and business.
+
+p111
+    Productivity Commission to conduct regular reviews of assistance arrangements.
+
+p115 
+JCP
+    allocated permits based on previous years emission levels
+
+
+
+
+
+
+APPENDIX B - Support for transition to a clean energy future
+APPENDIX C - Fiscal Tables
+APPENDIX D - Additional Government Measures
+
+
+
+

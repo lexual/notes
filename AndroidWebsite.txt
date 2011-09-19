@@ -1,0 +1,4 @@
+adb install *.apk
+adb -s emulator=<id_num> install *.apk
+adb devices //list devices
+ant debug install

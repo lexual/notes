@@ -1,0 +1,104 @@
+LECTURE 3
+=========
+
+TITLE
+Simple Interactive Apps
+
+OVERVIEW
+* Recap
+* UI Construction - Separation of Concerns
+* Temperature Convertor Demo
+* Managing Orientation Change
+* Working with Resources (programatically)
+* Working with Alternate Layouts
+
+
+
+* Recap
+* UI Construction - Separation of Concerns
+
+separating presentation and functionality
+theory advocates separating these with loose coupling
+layout in main.xml, functionality in java code
+
+iOS - presentation in XIB file (view)
+functionality in ObjC (view controller, data model)
+
+* Temperature Convertor Demo
+
+Views: TextView, EditText, Button
+android:inputType="numberSigned|numberDecimal"
+"@+id/foo" - creates new identifier
+android:text="1" - default value for EditText, etc
+EditText captures string
+
+handling clicks
+register listener to click, then handle the click.
+
+myButton.setOnClickListener(convertBtnListener);
+
+!!!!!!!!!
+Anonymous Inner Class pattern, just copy it.
+private OnClickListener convertBtnListener = new OnClickListener()
+{
+    public void onClick(View v)
+    {
+        // do stuff here.
+    }
+}
+!!!!!!!!!
+
+code recommendation
+    public void onCreate(Bundle saveInstanceState)
+    {
+        super.onClick(saveInstanceState);
+        setContentView(R.layout.main);
+        initializeUI(); // function that you put your init code in.
+    }
+
+
+* Managing Orientation Change
+
+Configuration Changes
+    battery charger plugg in, keyboard slide out.
+    orientation change.
+
+onCreate() called on activity start
+activity is restarted on orientation change.
+    activity is destroyed, then re-created and initialized again.
+    lose private instance variables
+    layout re-initialised (including defaults)
+    android automatically preserves "view state", but not value 
+onSaveInstanceState() is called from onPause()
+
+Bundle - like a dictionary, for storing stuff.
+putString(key, value)
+getString(key)
+protected void onSaveInstanceState(Bundle state)
+{
+    state.putString("foo", x);
+    super.onSaveInstanceState(state);
+}
+
+retrieve this state on creation [onCreate()]
+    put restoreState() in your init code.
+    private void restoreState(Bundle state)
+    {
+        if (state == null) 
+            return;
+        String foo = state.getString("foo");
+        // use variable
+    }
+
+* Working with Resources (programatically)
+e.g. change image.
+lightbulb demo
+ImageView bulb = (ImageView) findViewById(R.id.bulbImageView);
+bulb.setImageDrawable(getResources().getDrawable(R.drawable.on));
+getResources() // access to all resources: strings, layout, drawables, etc.
+
+
+* Working with Alternate Layouts
+
+res/layout-land/main.xml for landscape view
+

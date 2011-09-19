@@ -1,0 +1,162 @@
+3000 word final report
+learning benchmark (post-placement)
+
+comprehensive overview of organistation/structure/products/ervices
+    where I fit in.
+
+overview of work performed and experience gained
+    in context of learning benchmark
+
+attribute to improve on in mid-point
+how see career post placement
+recommendations for swinburne/employer
+
+
+STRUCTURE
+* TITLE PAGE
+subject code
+subject name
+Final Report on Industry Based Learning of Alexei Hider
+Employer - Citrus
+Industry Supervisor - Andrew Fisher
+Swinburne Supervisor - John McPhee
+July 2010 - June 2011
+
+* EXECUTIVE SUMMARY
+150-200 words
+* TOC
+* INTRODUCTION
+purpose/scope/nature of report
+* TEXT
+decimal numbering of subsections
+* CONCLUSION
+what's achieved, etc
+* SIGNATURE
+* APPENDICES
+post-placment benchmark
+others
+
+
+OCRF - Ovarian Cancer Research Fund
+Alfred Hospital's myHealthMate iPhone app
+Sportsgirl
+VRC/Melbourne Cup
+Toys'r'us
+
+GOAL: To be seen as equally competent as the rest of the dev team
+
+Real World Expericence
+
+Probably touched code base of almost every project worked on in past year
+
+not must websites, but mobile dev too
+
+programming and interface work
+
+training and documentation
+
+initiative - find solutions to problems you haven't been asked to solve
+
+Impact on Cit
+    Studio(dev and Interface) routinely seek me out for help and advice
+
+    easy to work with, easy going, good humoured
+
+    New technologies into business
+        virtualenv
+        oauth
+        tractino
+        celery (task scheduling)
+        south (db migrations)
+
+    Strong voice and contribut in meetings w/ inter/dev/studio teams
+
+    keep on top of details, especially when working on many projects at once
+
+Impact on Me
+    Confidence
+        to produce quality work
+        excel in team environ
+        pick up and learn new technologies
+
+    contacts
+
+    experience, more lines on resume
+
+    tech know, gaps to fill
+
+    be more assertive, and forthcoming w/ opinions and ideas on improvements
+        to be made, and short comings of status quo
+
+Recommendations for Swinburne
+    better info in job listings
+        tech used, what you'll be doing
+
+    occassional check-in to see how things are travelling
+
+Recommendations for Citrus
+    more structure, training
+    more feedback (missed sessions)
+    bus factor
+    better training, docs, info sharing and collaboartion between colleagues
+
+Thanks
+    Devo
+    Andrew
+    Josh & Luke
+    Dev & Interface
+
+
+MID MID MID MID
+websites
+thesource.com.au 
+ocrf.com.au
+backend
+frontend
+    different to normal workflow
+    flexibility, adaptability to change, independent learning skills
+
+workon
+    communication and teamwork sills
+    better feedback to management on time estimates, project progression
+        incomplete requirements
+
+
+
+
+
+
+ORGANISATIONS
+
+2.1 - Citrus (Mentoring Organisation).
+Citrus is a digital agency located in South Melbourne. It has been operating for over 10 years. It's core business is in assisting businesses negotiate the digital world, including but not limited to:
+- building web-sites,
+- creative design, strategy and concepts,
+- e-commerce,
+- mobile development,
+- email campaigns,
+- digital brand strategy, planning and development.
+ Current clients of Citrus include:
+ - VRC (Victorian Racing Club)
+ - Sportsgirl
+ - Toy 'r' Us
+ - Adidas
+ - Garnier
+ - Alfred Hospital
+
+2.2 - The Structure of Citrus.
+Below senior management are two teams: Studio and Client Services. Each made up of teams with specific expertise.
+
+2.2.1 - Studio
+Studio is where products are designed and implemented. Studio is composed of three teams: Creative (responsible for design), Programming (responsible for programming and other underlying technologies), and Interface (responsible for the implementation of design's work in technologies like html/css/javascript).
+My role within Citrus has straddled the Programming and Interface teams, although primarily the work has been with the Programming team. Chiefly my role has been creating and maintaining web-sites by doing back-end website programming. It also has included some interface work where I have written css/html/javascript for the front-end of websites. It has also included working on apps for smartphones like iPhones and Android phones.
+Andrew Fisher (General Manager of Technology) is responsible for both the Programming and Interface teams. Stephen McDonald is the team's lead. I have worked under the guidance of these two individuals.
+
+2.2.2 - Client Services.
+Client Services consists of two teams: Project Management and Account Management.
+Account Management is responsible for maintaining relationships between Citrus and it's clients. My role doesn't include much
+interaction with these team, as Studio have almost no direct contact with clients.
+Project Management is responsible for the planning and implementation of projects. My role includes working with Project Managers as they are responsible for individual jobs that most be completed by the Studio team.
+
+2.3 My Role Within Citrus.
+As Citrus is an agency, my role has had me working on numerous projects (some weeks I perform work for a different client each day). Instead of listing each project I have worked on, I will list some key projects, and how they relate to my experience and development.

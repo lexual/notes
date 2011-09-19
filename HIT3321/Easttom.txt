@@ -1,0 +1,295 @@
+Computer Security Fundamentals
+Chuck Easttom
+2006
+
+PREFACE
+From a Windows perspective
+
+*** WK 01 ***
+01 - Introduction to Cyber Crime and Security - DONE - 2011-Aug-07
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+major threat - DoS and virus, not hackers
+most hackers are fairly mediocre, limited number of truly talented hackers out
+    there
+IN PRACTICE: Assessing Your Own System
+    * Give score out of ten for: how high profile company is and
+        value of information
+        e.g. 7 credit card info, 10 nuclear
+        9 govt, 3 little known company
+    * add 2 numbers to get number out of 20
+    * rate your current security out of 10
+    * subtract 2nd number from 1st (-8 to 18)
+        lower number, better security
+top threats to networks
+    malware
+        software with malicious purpose
+        virus attacks
+            most common attack
+            "a small program that replicates and hides itself inside other
+                programs, usually without your knowledge" -- Symantec 2003
+            like biological virus: both replicate and spread
+            often spread by emailing your address book.
+            may not harm system, but cause network slowdown/shutdowns.
+            new viruses created each month
+        trojan horses
+            appears to be benign but secretly downloads virus/malware
+        spyware
+            software that spies on you
+            e.g. cookie - your web history
+            key logger - logs all keystrokes
+                can also do regular screen shots
+        most prevalent danger to system
+    intrusion
+        gain unauthorised access to system
+        cracking - correct word to use - gaining access w/ malevolent intent
+        hacking - gaining access, may not be malevolent
+        social engineering
+            exploit human nature not technology
+            con artist methods
+            e.g. ring up and ask for passwords
+            TEXT:
+                The Art of Deception: Controlling the Human Element of Security
+                Kevin Mitnick
+        war-dialing
+            set computer to call phone numbers until another computer answers
+                and try to gain entry to its system.
+            war-driving
+                wifi
+                drive around finding vulnerable wireless networks
+    DoS - Denial of Service
+        2nd most common attack after malware
+        flood with false connection requests
+        prevent legitimate access to system
+internal employeese misusing system
+    misuse, or outright attack
+people
+    hacker - expert on system
+        white hat - find vulnerability, disclose to vendor
+        black hat - gain access, malicious intent
+            aka cracker
+        grey hat - e.g. gain access to corporation they think are unethical
+    script kiddy - hacker without expertise
+    sneaker - legally hack into system to assess system's vulnerability
+        author thinks should hire these to look at your network each year
+        should have criminial background check
+devices
+    firewall - barrier between network and outside world
+        filters traffic going in and out
+    proxy server - hide internal IP address, present single IP to outside
+        intercepts all requests and fulfils it if it can
+        improve performance and filter requests
+    IDS - Intrusion Detection System
+        monitors traffic for suspicious activity that might be an intrusion
+        e.g. detect someone scanning all ports to see which are open
+activities
+    phreaking - break into telephone system
+        "The action of using mischievous and mostly illegal ways in order to not
+        pay for some sort of telecommunications bill, order, transfer, or
+        other service"
+        -- New Hacker's Dictionary
+    authentication
+        determine whether credentials given (username/password) are authorised
+            to access the resources they're trying to access
+    auditing
+        reviewing logs, records, procedures to see if they meet standards
+approach to network
+    perimeter
+        bulk of security efforts are focused here
+        firewalls, proxy servers, password policies
+        anything to make unauthorise access less likely
+        secure perimeter, not secure inside of network
+    layered
+        secure individual systems within network as well as perimeter
+        preferred method
+        segment network, and secure each segment
+reactive vs proactive security
+    wait until you're attacked before implementing security measures.
+    responding to attack or preventitive measures
+    proactive - IDS
+hybrid
+    actually a mix of reactive/proactive, layered/perimeter
+legal implications
+    privacy laws - if compromised health insurance data, are you liable?
+Online resources
+    CERT - Computer Emergency Response Team - www.cert.org
+        sponsored by Carnegie-Mellon University
+        should visit site routinely
+        first computer incident-response team
+    Microsoft Security Advisor
+        microsoft.com/securitydefault.mspx
+        portal to MS security info/updates
+    F-Secure - f-secure.com
+        info on virus outbreaks, very detailed
+    SANS Institute - www.sans.org
+        lots of security-related docs
+
+*** WK 02 ***
+02 - Networks and the Internet - DONE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OSI Model
+    mnemonic: Australia Post Sucks, They Never Deliver Parcels.
+    Application
+    Presentation: POP,SMTP,DNS,FTP,Telnet,ARP
+    Session: NetBIOS
+    Transport: TCP
+    Network: IP,ICMP
+    Data Link: PPP
+    Physical
+NIC
+    Network Interface Card
+    ethernet card/wifi card.
+MAC addresses
+    Media Access Control Addresses
+    Unique for each NIC in the world
+    6 byte hexadecimal number
+ARP - Address Resolution Protocol
+    convert IP addresses to MAC addresses
+DNS
+    URL (domain name) to IP address
+    Doman Name Server
+RJ45
+    Registered Jack
+    ethernet port
+    8 wires in connector (phone lines just 4 RJ11)
+cat5 cable
+    cat6 more common in high-speed networks (1000Mbps) gigabit ethernet
+    100MHz/10Mbps
+    UTP - unshielded twisted pair
+Hub
+    box w/ 4 or more RJ45 jacks (ports)
+    packets sent to each computer connected to it
+    layer 1 device
+Switch
+    an intelligent hub
+    only sends out the port the dest computer is on
+    builds table based on MAC addresses
+    layer 2 device
+Router
+    connects 2 or more networks
+    can program and control how they relay packets
+T1 - 1.54 Megabits per second
+TCP - Transmission Control Protocol
+    2 hosts to establish connection and exchange data
+    guarantees in order delivery
+IP - Internet Protocl
+    specifies packet format and addressing scheme.
+UDP - User Datagram Protocol
+    connectionless protocol
+    uses IP
+    few error recovery services
+    doesn't guarantee delivery
+ICMP
+    Internet Control Message Protocol
+    extension of IP
+    packets containing error,info, control messages.
+    ping uses ICMP
+Common application layer protocols and ports
+    20,21   ftp
+    23      telnet
+    53      dns
+    80      http
+    110     pop3
+    137-9   netBIOS (older ms protocol for naming systems on local network
+    194     irc
+    n/a     icmp
+IP address
+    32-bit address, x.x.x.x between 0-255
+    4 bytes
+    public and private
+    no 2 public addresses can be the same
+    classes
+        1st byte tells whether class A,B,C
+        127.*.*.*   reserved
+        A 000-126.*.*.* extremely large networks
+        B 128-191.*.*.* large corporate and government networks
+        C 192-223.*.*.* most common, your isp probably has these
+        D 224-247.*.*.* reserved for multicasting (transmitting to multiple)
+        E 248-255.*.*.* reserved for experimental use.
+    127.0.0.1 loopback (your machine)
+    approx 4.2 billion addresses
+CIDR
+    new addressing scheme
+    classless inter-domain routing
+ipv6
+    128-bit address
+subnet
+    share common address component (subnet
+    IP address w/ same prefix
+    e.g. all IP beginning 200.200.200
+    subnet mask
+        32 bits
+        tells which part of address is refer to subnet (network) and host
+        e.g.
+        class B 185.201.20.2
+            185.201 subnet
+            20.2 host
+web server errors
+    400 series are client errors
+    500 series are server errors
+    100 series are informational
+    200 series indicate sucess
+    300 series are re-directional
+ipconfig
+    tells ip address
+    ipconfig -?
+        gives help on options
+        e.g. ipconfig /all
+            gives more info
+ping
+    sends echo packet to see if reachable
+tracert/traceroute
+    tells you route that ping took
+    does this by sending w/ different increasing ttl amounts
+converting decimal to binary
+    31/2    15  r1
+    15/2    7   r1
+    7/2     3   r1
+    3/2     1   r1
+    1/2     0   r1
+    binary: 00011111
+firewall    
+    barrier between your network and internet
+    mainly work by packet filtering
+    only allow packts using certain types of protocols through
+proxy server
+    hides your netowk from outside
+    all traffic goes through here, addresses changed
+firewall + proxy server is basic internet security
+
+
+
+
+
+
+
+
+
+*** WK 03 ***
+03 - Assessing a Target System
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 04 ***
+04 - Denial of Service Attacks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 05 ***
+05 - Malware
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 06 ***
+06 - Basics of Assessing and Securing a System
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 07 ***
+07 - Encryption
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 08 ***
+08 - Internet Fraud and Cyber Crime
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 09 ***
+09 - Industrial Espionage in Cyberspace
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+10 - Cyber Terrorism and Information Warfare
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** WK 10 ***
+NA
+*** WK 11 ***
+NA
+*** WK 12 ***
+NA

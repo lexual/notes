@@ -1,0 +1,14 @@
+outline
+
+hurdle!!!
+directed graph
+graph w/ nodes
+given data w/ nodes going out
+count going into each node
+
+spikes!
+builds up to project, checkpoints.
+
+entity/component - procedural/OO
+
+

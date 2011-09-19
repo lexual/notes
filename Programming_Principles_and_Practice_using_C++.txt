@@ -1,0 +1,279 @@
+Bjarne Stroustrup
+Programming Principles and Practice Using C++
+
+2009
+1034 pages
+
+Preface
+Chapter 00 - Notes to the Reader - DONE
+Chapter 01 - Computers, People, and Programming - DONE
+PART I   - The Basics
+Chapter 02 - Hello, World! - DONE
+Chapter 03 - Objects, Types, and Values - DONE
+Chapter 04 - Computation
+Chapter 05 - Errors
+Chapter 06 - Writing a Program
+Chapter 07 - Completing a Program
+Chapter 08 - Technicalities: Functions, etc.
+Chapter 09 - Technicalities: Classes, etc.
+PART II  - Input and Output
+Chapter 10 - Input and Output Streams
+Chapter 11 - Customizing Input and Output
+Chapter 12 - A Display Model
+Chapter 13 - Graphics Classes
+Chapter 14 - Graphics Class Design
+Chapter 15 - Graphing functions and Data
+Chapter 16 - Graphical User Interfaces
+PART III - Data and Algorithms
+Chapter 17 - Vector and Free Store
+Chapter 18 - Vectors and Arrays
+Chapter 19 - Vector, Templates, and Exceptions
+Chapter 20 - Containers and Iterators
+Chapter 21 - Algorithms and Maps
+PART IV  - Broadening the View
+Chapter 22 - Ideals and History
+Chapter 23 - Text Manipulation
+Chapter 24 - Numerics
+Chapter 25 - Embedded Systems Programming
+Chapter 26 - Testing
+Chapter 27 - The C Programming Language.
+PART II  - Input and Output
+PART V   - Appendices
+
+
+
+
+
+Preface
+==================================================================
+Chapter 00 - Notes to the Reader
+==================================================================
+Chapter 01 - Computers, People, and Programming
+==================================================================
+
+PART I   - The Basics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chapter 02 - Hello, World!
+==================================================================
+
+cout - character output stream.
+<< - output operator
+function 4 parts
+    return type
+    name
+    parameter list
+    function body
+compiler - source to machine language.
+linker - links together separate object code files, and gives executable.
+library - code written by someone else.
+
+
+Chapter 03 - Objects, Types, and Values
+==================================================================
+
+object - region of memory with a type that specifies what kind of info can be
+    placed into it.
+    - a box into which you can put a value of the objects' type.
+variable - named object.
+
+    string name;
+    cout << "Enter name: \n";
+    cin >> name; // newline is not part of the string.
+    cout << "Hello " << name << "\n";
+
+definition - statement that introduces a new name into a program and sets
+    aside memory for a variable.
+    - defines a variable.
+cin - character input stream
+type - specifies what values, and what operations can be performed on them.
+
+5 key points
+    int x = 39;
+    double y = 3.5; // double precision floating point.
+    char dec = '.';
+    string name = "Lex";
+    bool is_done = true;
+
+>> - get from
+    by convention, strings reading is terminated by whitespace
+
+s1 + s1; // string concatenation.
+string can do comparison (==, <, >)
+
+initialization and assignment are logically different.
+int x = 5; // init
+x 6; // assign
+
+    string current;
+    while (cin >> current)
+        ...
+        // ends with end of file, ctrl-z (win) or ctrl-d
+
+conventions: variable_name,
+    self-defined type: Square.
+
+type - set of possible values and a set of operations (for an object0
+object - memobry that holds a value of a given type
+value - set of bits in memory interpreted according to a type
+variable - named object.
+declaration - statement that gives a name to an object
+definition - declaration that sets aside memory for an object.
+
+Type Safety
+    objects used only according to their type.
+    e.g. using variable before initalized.
+    ALWAYS INITIALIAZE YOUR VARIABLES!!
+    
+    Safe Conversions
+        no info lost.
+
+        int -> double
+        bool -> char
+        bool -> int
+        bool -> double
+        char -> int
+        char -> double
+
+        char c = 'x';
+        int i1 = c;
+    Unsafe Conversions
+        "narrowing conversions"
+        int a = 20000;
+        char c = a; // BAD
+
+
+Chapter 04 - Computation
+==================================================================
+
+objectives (in order):
+    correct
+    simple
+    efficient
+
+abstraction helps, hide details behind an interface.
+
+expression - value, or computation of a value from operands.
+
+    constant double pi = 3.14159; // avoid magic constants.
+
+++d; is more readable/clear than d += 1, or d++;
+5/2.0; // uses floating point division.
+
+expressions
+a=b
+++b
+statements
+a=b;
+++b;
+; // empty statement.
+if(X) {a;} // if statement.
+block or compound statement
+    {
+        x;
+        y;
+    }
+
+for (int i=0; i<100; i++) {
+    // stuff;
+}
+
+switch
+    // can't switch on a string, only char, int, enum
+    // can't use variables, only literals and constants.
+    switch (unit) {
+        case 'I':
+        case 'i': 
+            // foo
+            break
+        case 'c':
+            // bar
+            break;
+        default:
+            // bam
+            break;
+    }
+
+function definition
+    type identifier ( parameter-list ) function-body
+best if functions perform one logical action.
+
+// function declaration
+int square(int);
+
+vector, sequence of elements, accessed by index.
+vector<int> v(6); //v[0] to v[5], default to 0
+vector<string>; // defaults to ""
+
+vector<double> vd(1000, -1.2); //specify default as -1.2
+vd.push_back(3.2); // add to the end, increases length.
+vd.size(); // tells you the size.
+for (int i=0; i<vd.size(); i++) {
+    vd[i];
+}
+
+while(cin>>temp) {
+    temps.push_back(temp);
+}
+sort(temps.begin(), temps.end());
+median = temps[temps.size()/2];
+
+// takes start and end of sequence.
+sort(temps.begin(), temps.end());
+
+
+Chapter 05 - Errors
+==================================================================
+Chapter 06 - Writing a Program
+==================================================================
+Chapter 07 - Completing a Program
+==================================================================
+Chapter 08 - Technicalities: Functions, etc.
+==================================================================
+Chapter 09 - Technicalities: Classes, etc.
+==================================================================
+PART II  - Input and Output
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chapter 10 - Input and Output Streams
+==================================================================
+Chapter 11 - Customizing Input and Output
+==================================================================
+Chapter 12 - A Display Model
+==================================================================
+Chapter 13 - Graphics Classes
+==================================================================
+Chapter 14 - Graphics Class Design
+==================================================================
+Chapter 15 - Graphing functions and Data
+==================================================================
+Chapter 16 - Graphical User Interfaces
+==================================================================
+PART III - Data and Algorithms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chapter 17 - Vector and Free Store
+==================================================================
+Chapter 18 - Vectors and Arrays
+==================================================================
+Chapter 19 - Vector, Templates, and Exceptions
+==================================================================
+Chapter 20 - Containers and Iterators
+==================================================================
+Chapter 21 - Algorithms and Maps
+==================================================================
+PART IV  - Broadening the View
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chapter 22 - Ideals and History
+==================================================================
+Chapter 23 - Text Manipulation
+==================================================================
+Chapter 24 - Numerics
+==================================================================
+Chapter 25 - Embedded Systems Programming
+==================================================================
+Chapter 26 - Testing
+==================================================================
+Chapter 27 - The C Programming Language.
+==================================================================
+PART II  - Input and Output
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PART V   - Appendices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

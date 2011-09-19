@@ -1,0 +1,264 @@
+*** WK 01 ***
+001 - As the worm turns: the first internet works of 2005
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Aug 18, 2005
+
+virus - needs user interaction (e.g. open attachment)
+worm - self-propogates
+
+For this to work.
+Win2000 not XP, if unpatched and no firewall
+NetBIOS ports 139 and 445 (some isps block those)
+attached large corporate deployments
+had a firewall, but not per machine
+infected by laptop from outside, brought in and put on the network.
+
+025 - How the Internet works, Part 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feb 2, 2006
+
+packets
+ipv4
+ipv6 next
+32bit to 128bit
+32bit is 4,294,967,296. 
+ipv6 3.4e38 addresses, absolutely massive!
+
+NAT routers has meant running out ipv4 hasn't happened as quickly, been as big
+    a problem
+
+ipv6
+    link-level security or IP-level security, endpoint-to-endpoint  encryption
+
+source/dest ip address
+protocol number: tcp/udp/icmp - one byte
+ping used to check links when things go wrong
+TTL - time to live
+    when reaches zero, sends icmp w/ expired to source
+traceroute - packets w/ increasing ttl
+ip addressing is heirarchical
+    so can look at start of address, and send it in that direction.
+
+protocols like BGP (Border Gateway Protocol), share w/ neighbours the IPs that
+    they know
+
+classes of network
+    class A, 8bits location, 24bits location w/in network
+        e.g. ISP, 16million machines
+    class B, 16bits location, 16bits w/in network
+    class C, 24/8, 250 machines
+
+can route around routers when they go down
+
+
+
+026 - X
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+027 - X
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+029 - X
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+045 - The 'Hosts' File
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+June 22, 2006
+
+every  system w/ tcp/ip has it
+1st dns lookup happens here 
+
+win: /windows/system32/drivers/etc/hosts
+c:\Windows\system32\drivers\etc
+matches ip to domain names
+e.g.
+127.0.0.1 localhost
+can include other file, including remotely so can have just one version
+
+block stuff you don't want to go to.
+e.g.
+127.0.0.1 doubleclick.net
+
+some hosts files maintained publically online to filter out "bad" sites
+
+e.g. go nowhere
+0.0.0.0 bad.com
+0 bad.com
+
+mydoom virus modified hosts file so couldn't access antivirus sites
+
+
+047 - Internet Weaponry (DoS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+9:50 - 10:34 (44mins) vs 62mins realtime.
+
+July 6, 2006
+
+Denial of Service (Dos) - swamp machine with internet packets,
+    excess gets dropped from buffer overflow.
+    Valid traffice can't get through
+    it's a bottleneck
+
+DDos (distributes Dos) - thousands of machines sending traffic to one point.
+    more incoming bandwith than can handle.
+
+These are flood attacks, other DoS attacks exist.
+e.g. ping of death on windows, ping packet with same dest/source IP,
+machine got into a 100%cpu loop
+
+SYN flood -
+    SYN is 1st TCP packet, to initiate a connection (synchronise)
+    receives back a SYN/ACK
+    final response in 3-way handshake
+    receiving SYN allocates resources, earlier OSes could get attacked this way
+
+analogy like a magnifying glass on your hand.
+    OK to have spread out, problem is concentrated in one spot.
+
+slashdot/digg effect similar, but non-malicious
+
+1999 - 15yo Mafiaboy brought down yahoo and dell, ebay, amazon, cnn
+estimated $1.7 billion damage.
+Served 8 months in youth detention
+
+IRC - blasting people off the net.
+    because a relay of servers, taking one down splits network, when rejoin
+    can kill the other user off the network.
+    bots.
+
+    botnet - bot network.
+    initially to blast people off irc.
+
+Steve has heard of attacks as large as 9 gigabits
+botnets as large as 100,000
+
+extortion - say pay us $x or we'll take you offline and it will cost much more
+
+Best defence is to throw bandwith at it.
+
+DNS, ping attack with ICMP for an hour against main dns servers.
+    took down 9 of 13
+
+backscatter - attacked by random generated ip address with SYN packets.
+    san diego guys with large unused IP address space could see
+    when people were getting attacked, because responses to theses SYNs
+    were going to their IPs.
+
+raw sockets were in XP until SP2, because attack was used against Microsoft
+
+
+050 - Virtual Machine History & Technology
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+9:02 - 9:36, 34 mins, real-time 52 mins
+
+Jul 27, 2006
+
+began in 1960 w/ IBM and VM/360
+
+emulation is one type, e.g. intel mac's emulating powerpc for old programs
+
+vm languages (e.g. java), perl6 on parrot vm
+
+in interpreted environment, not running on hardware directly, but one level
+removed.
+creates sandbox so code can't do anything dangerous
+more work to do, performance penalty when in software
+
+intel chips beginning w/ 8286
+    introduced protected mode (interprocess isolation) protects apps from one
+    another.
+
+intel added supervisory code, that could get notified under certain conditions
+    notified when read/write to I/O devices
+    notified when read/write to memory
+    interception hardware protects individual i/o addressed, etc.
+
+
+hardware assisted virtualization
+
+053 - VMware (virtualization part 2)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aug 17, 2006
+
+VMWare - files are essentially hard-drive, os and docs.
+    Could take from windows vmware, and run on linux vmware.
+
+    option to not save across sessions, i.e. starts fresh each time
+
+    appliances - pre-created virtual machines
+    player is free, workstation isn't
+
+057 - Virtual PC versus VMware
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sept 14, 2006
+
+Patch Tuesday, 2nd tues of month, microsoft releases patches
+
+VMware.
+Virtual PC - Microsoft's offering, they bought it from Connectix
+    doesn't support usb
+    doesn't officially support other OSes
+
+065 - Why is Security so Difficult?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nov 9, 2006
+
+zero-day exploit, problem already occuring when discovered.
+    exploited before developer is aware of it
+
+security is hard because to be secure, you must have no insecurity,
+    but all software has bugs, so this is impossible.
+
+*** WK 02 ***
+025
+026
+027
+029
+49
+*** WK 03 ***
+006
+043
+049
+*** WK 04 ***
+001
+008
+038
+*** WK 05 ***
+007
+009
+078
+191
+193
+*** WK 06 ***
+004
+005
+020
+021
+022
+*** WK 07 ***
+031
+033
+034
+035
+037
+*** WK 08 ***
+NA
+*** WK 09 ***
+006
+038
+043
+049
+064
+068
+003
+042
+062
+*** WK 10 ***
+039
+078
+*** WK 11 ***
+012
+*** WK 12 ***
+NA

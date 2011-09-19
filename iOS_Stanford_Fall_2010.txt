@@ -1,0 +1,189 @@
+Lect 1
+-----------------------
+cs106a/b required
+cs107 recommended
+developer.apple.com
+MVC
+model - what app is, but not how displayed
+controller - how model presented to user (UI logic), platform specific
+    e.g. iphone, ipad
+view - generic reusable components used by controller, e.g. slider, buttons
+    maybe written by apple
+controllers can talk directly to model
+controllers can talk directly to view.
+    (outlet) - pointer from controller to view
+model and view never speak to each other
+
+view speaking to controller
+3 ways
+* target action. controller has target, hands action to view it hearing from.
+action sent to target when element used.
+* delegation.
+will/should/did, need to sychronise view with controller.
+should - should I do this?
+did scroll.
+delegate set via a protocol (OO)
+each view can only have one delegate
+views don't own the data they display.
+* data source.
+count/at/data. how many rows? give me row 5.
+
+model doesn't speak to the controller.
+notification/kvo (like radio station). Allows objects to broadcast when changes
+have been made.
+
+Lect2
+-------------------------------------------------------------
+outline - mvc, obj-c, interface builder, xcode
+
+model: CalculatorBrain
+CalculatorViewController
+
+actions: digitPressed, operationPressed
+
+CalculatorBrain.h model header file. public api
+    #import <Foundation/Foundation.h> // gives NSObject
+    // NSObject - superclass, most inherit from this
+    @interface CalculatorBrain: NSObject
+    {
+        // instance variables are all here, private or public.
+        double operand;
+    }
+    // methods
+    - (void)setOperand:(double)anOperand;
+    // setOperand method, anOperand is argument.
+    - (double)performOperation:(NSString *)operation;
+    - (NSArray *)foo:(int)zap bar:(id)pow;
+    // id type - pointer to any kind of object.
+    @end
+
+CalculatorBrain.m
+#import "CalculatorBrain.h"
+@implementation CalculatorBrain
+- (void)setOperand: (double)anOperand
+{   
+    operand = anOperand;
+}
+@end
+// [] - send message.
+// [operation sendMessage:argument];
+    // operation - object to send message to.
+    // sendMessage: - message that is sent.
+
+IBOutlet,IBAction - like void, but seen by interface builder
+*.xib - view
+
+Interface Builder
+File's Owner - needs to be/is controller.
+4 windows
+* library, objects
+* inspector, shows attributes
+
+
+Walkthrough 1
+-------------
+outlet - instance variable in controller pointing to objects in view
+action - methods in controller that are going to be sent to us from our view
+
+IBOutlet - does nothing, but let Interface Builder know it is an outlet
+IBAction - same as void, except IB knows about it.
+
+NSLog() - output to console like printf, takes an NSString.
+
+// only init/alloc when needed.
+- (CalculatorBrain *)brain
+{
+    if (!brain) {
+        brain = [[CalculatorBrain alloc] init];
+    }
+    return brain;
+}
+
+
+BOOL - YES/NO, initially set to zero by default.
+
+nil - clear pointer by setting to this.
+
+Lecture 3
+---------------
+method syntax
+- (NSArray *) shopsAtPoint:(CGPoint)bomblocation withDamage:(BOOL)damaged;
+- instance method
++ class method
+return type in parenthesis
+method name is "shipsAtPoint:withDamage:"
+When many args, line up the colons on multiple lines.
+    - (void) a:(NSString *)aa
+            bb:(NSString *)b
+
+Instance variables
+protected by default (only class an subclasses can access)
+can be marked @private or @public
+!! mark all instance variables as @private
+    then use @property and "dot notation" to access instance variables.
+get and setters. get same name as variable, setter as setVar.
+now can use "dot notation"
+someObject.eye = foo;
+
+@interface MyObject : NSObject
+{
+@private
+    int eye;
+}
+@property int eye;
+// does the same as.
+// - (int) eye;
+// - (void) setEye:(int)anInt;
+
+@property (readonly) int eye; // only getter, no setter.
+
+In implementation
+    @synthesize eye;
+    // same as implementing eye: and setEye:
+    another way @synthesize eye = p_eye;
+
+private properties
+@interface MyObject() //parenthesis does the magic.
+@property double myEyesOnly;
+@end
+// can only be set/get via dot notation.
+
+id - any object pointer. Never use "id *"
+all object allocated in the heap.
+
+Introspection
+isKindOfClass - with inheritance
+isMemberOfClass - no inheritance
+respondsToSelector - does object respond to given method.
+    if ([obj isKindOfClass:[NSString class]]) {
+        NSString *s = [(NSString *)obj stringByAppendingString:@"xyzzy"];
+    }
+
+    if ([obj respondsToSelector:@selector(shoot)]) {
+        [obj shoot];
+    }
+
+SEL - type for a selector
+    SEL shootSelector = @selector(shoot);
+//perform selector by performSelector: or performSelector:withObject:
+[obj performSelector:shootSelector];
+[obj performSelector:moveToSelector withObject:coordinate];
+
+nil - object pointer, not pointing to anything. Kind of like zero.
+objects default to starting to this.
+
+Foundation Framework
+NSObject - base object
+has description method, used by NSLog()
+NSString - unicode, immutable.
+there is NSMutableString
+
+NSNumber - wraps primitive number types.
+NSNumber *num = [NSNumber numberWithFloat:36.5];
+
+NSValue - generic wrapper for other non-object data types.
+
+NSData - bag of bits, used to save/restore/transmit data throughtout iOS SDK.
+
+NSDate
+

@@ -1,0 +1,32 @@
+40 chapters.
+
+Tut 1 - Project
+====
+
+Tute 2 - Simple Form
+====
+lunch list app
+findViewById()
+View.OnClickistener ( with anon inner class pattern)
+
+Tute 3 - Fancier Form
+=====
+TableLayout
+<TableRow>
+stretchablecolumns
+* now lineup.
+adb logcat
+
+RadioGroup><RadioButton>
+
+// return -1 if no checked radio button.  switch(types.getCheckedRadioButtonId()) {
+    case R.id.foo:
+
+Tute 4 - Adding a List
+=======
+List<Restaurant> model = new ArrayList<Restaurant>();
+RelativeLayout
+android.R.layout.simple_list_item_1 // stocklayout, white on black.
+
+Tute 5 - Making Our List Be Fancy
+===============

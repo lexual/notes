@@ -1,0 +1,196 @@
+7 habits doc
+=============
+
+1 - edit
+--------
+
+[{ -
+    jump back to '{' at start of code block.
+incsearch - 
+    show first match for pattern while typing.
+gd -    
+    jump to variables declaration
+abbr - 
+    replace as typed.
+    :abbr hte the
+    :abbr AFL Australian Football League
+
+2 - edit more files
+--------
+
+tags for jumping around files.
+:grep
+:cn - next mach
+[I - show all lines with this word/variable/function name.
+!sort - sort hilighted lines, using external sort.
+
+
+VIM DOCS
+========
+
+help
+----
+
+ctrl-]  
+    jump to subject
+ctrl-t/o
+    jump back
+
+quickref
+---------
+^
+    go to first non-blank character in line.
+f
+    jump to next occurence of char, F backwards
+t
+    jump to before next occurence of char, T backwards
+;/,
+    repeat f/t forwards/backwards
+-/+
+    up/down, on the first non-blank character in line.
+w
+    word forwards
+W
+    blank-separated words forward
+e
+    forward to end of word
+E
+    forward to end of non-blank word
+b
+    word backwards
+B
+    non-blank word backwards 
+ge
+    back to end of word
+gE
+    back to end of non-blank word
+
+[[/]]
+    forward/back sections
+[(/[{/])/]}
+    forward/back to (,{ ...
+[m
+    back to method
+[M
+    back to method end
+]m/M
+    forward to method
+[* ]*
+    move to /* */ comments
+
+N
+    repeat search backwards
+#
+    search backwards for word under cursor
+``
+    back to position before jump
+`.
+    go to position of last change in the file.
+:marks
+    show marks
+H/M/L
+    go to start/middle/end of current window
+H
+    go to nth line in window
+ctrl-e/y
+    scroll window down a line
+ctrl-d/u
+    scroll 1/d window down
+ctrl-f/b  
+    page down/up
+z<cr> zt
+    put at top of window
+z. zz
+    center window
+z- zb
+    window to last line
+
+I
+    insert at 1st non-black char
+gI
+    insert at column 0
+ctrl-t/d
+    insert mode, indent/unindent line.
+
+:r <file>
+    insert contents of file
+:r! <cmd>
+    insert stdout of command
+X
+    delete backward
+gJ
+    join lines, without the space
+
+Y/yy
+    yank line
+]p ]p
+    paste and keep indent
+cc/S
+    change Line
+~
+    switch case
+ctrl-a/x
+    increment/decrement number
+<</>>
+    indent line
+
+!
+    filter through external cmd
+:s/a/b/c
+    confirm each one.
+
+:map x y
+    map x to y in normal/vis mode
+:map!
+    map x to y in insert/command-line mode.
+:unmap :unmap!
+    remove mapping
+:map_l(!)
+    list mappings
+:(c,i,n,v)map
+    map for command/insert/normal/visual modes only
+
+set spell
+    spelling.
+U
+    restore last changed line.
+
+:cc
+    show error
+:cn :cp
+    prev/next error
+:clist
+    list errors
+ctrl-g
+    show filename and cursor position
+
+ctrl-w o
+    only show this screen
+
+set foldmethod=
+    indent, expr, syntax, marker
+zo
+    open fold here
+zO
+    open all folds here
+zc
+    close fold
+zC 
+    close folds here
+zm zr
+    close more/less
+zM
+    close all folds
+zR
+    open all folds
+END-quickref notes.
+
+chap 01
+---------
+Done
+
+chap 02
+---------
+Done
+
+

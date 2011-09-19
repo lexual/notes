@@ -1,0 +1,138 @@
+wk13 revision lecture (swot vac)
+
+grey hat book!!!
+
+mitnick deception
+new poulson book
+
+ocean 11
+leverage
+die hard 4
+
+
+10 pages on report.
+
+SN
+1, 45, 65
+50, 53, 57
+Easttom ch1
+Sawicki ch7
+
+RRR
+byteintoitlinks.blogspot.com
+feeds.feedburner.com/biteIntoItpodcasts
+
+risky.biz podcast
+sydney-based IT security news
+
+grc.com/securitynow
+
+PABX - phone
+MSS - mobile switching
+
+SCADA - like stuxnet
+
+whitelist - only allows what's on the list
+blacklist - disallow what's on the list
+
+TERMINOLOGY - test and exam!
+hacker
+cracker
+black hat
+white hat
+grey hat
+sneaker
+pnetration tester
+exploit - code taking advantage of vulnerability
+crack - bypass serial number entry, etc.
+
+malware
+virus
+worm - no human intervention needed
+
+
+Legal
+get paper trail as proof for you having permission to to security hacking
+
+network segmentation policy, which things should reside on separate networks
+    contains attacks
+    improves security by limiting visibility
+    improves network performance
+
+security policy, let users know what they can and can not do.
+acl - access control
+    file/user permissions control
+
+reactive security: allow and close of when things happen
+
+air-gap
+    no patch updates, hard to maintain patches.
+    make easy to compromise once perimeter is breached.
+    vulnerable to laptop/usb key
+
+cracker - hacker w/ evil purposes
+    aka black hat
+white hat - security researcher, hacks into system for good.
+grey hat - does it for social/ethical reasons
+sneaker - paid to hack on your system to test it.
+exploit - example code to compromise systerm.
+crack - modify installed software to allows enhanced access (bypass login, drm)
+script - as opposed to native code
+worm - virus w/out need of human intervention
+virus - bad program, can duplicate and infect other computers.
+trojan - looks good but is does bad.
+spyware - monitor behaviour, spies
+adware - spyware used for push-advertising and marketing
+
+bot/RAT - remote access tool
+    remote controlled program communicates w/ bot-herder
+    bot - receive and send messages, no interface
+    rat - allows real-time interaction
+root kit technology
+    privilege escalation to root
+    malware w/ patches OS to avoid detection.
+    may install malware that can't be detected/removed.
+firewall
+    barrier between trusted device and untrusted environment
+IDS - Intrusion detection system.
+    application ayer device w/ analyses IP packets to determine attacks
+IPS
+    IDS that can block attacks
+HIPS
+    host based IPS
+NIDS
+    network based IDS
+
+
+Applicance - purposed but computer as IDS/firewall
+NAT-Router
+    readdress IP packets allows sharing common public IP address
+Penetration Test
+    evaluate security by simulating an attack
+Audit
+    pen testing, risk analysis, interviews, reviews of hardware/software access
+
+get written permission before testing a system.
+real black hats duplicate system and practice on it.
+
+
+
+    
+
+
+
+
+* WK 2 **
+
+Layers mnemonic
+Australia   - App
+Post        - Presentation
+Sucks       - Session
+They        - Transport
+Never       - Network
+Deliver     - DataLink
+Parcels     - Physical
+
+tcp - can't spoof, can't use anonymous
+udp - can spoof addresses
+

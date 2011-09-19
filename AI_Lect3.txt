@@ -1,0 +1,26 @@
+cnet article
+@swinfict
+
+HIT3138
+
+Texts
+Sterling - Agent-Oriented
+Russel/Norvig - AI
+Wooldridge, M - An Introduction to MultiAgent Systems, 2002
+
+Assessment - 50/50
+==========
+Assignment
+* Project 2-3 teams (programming)
+* Report individual
+
+Exam
+* multiple/choice - written
+* oral
+
+jade/java ???
+Jason
+
+Ryszard Kowalczyk
+EN511b
+rkowalcqyk@swin.edu.au

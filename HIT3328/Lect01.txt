@@ -1,0 +1,158 @@
+Lect 01
+========
+
+
+TITLE
+Platforms and Devices
+
+
+OVERVIEW
+* Eco Systems and Development Journey
+* Smartphone - Hardware Overview
+* Hardware Constraints (Dev. perspective)
+* Mobile Operating Systems
+* Convention Over Configuration
+
+
+* Eco Systems and Development Journey
+
+    * Application Planning
+    * Platform/lib selection
+    * develop and test
+    * deployment
+    * monetize
+    * analytics, support, update
+
+* Smartphone - Hardware Overview
+    * Locate
+    gps - few metres
+    cell grid triangulate - 100metres
+    ip network - suburb/city
+    * Touch
+    resistive - cheaper, hard press
+    capacative - much better
+    * CPU/GPU
+    dual cores coming in next gen.
+    * Networking
+    wifi 30Mbps
+    gprs 48kbps
+    3g 5-7Mbps
+    bluetooth 3Mbps, nextgen 24Mbs
+    1Mbps = 10sec to download 1MB file (megabit/byte)
+    * Battery
+    1500 mAh - screen is biggest consumer
+    with gps - 20-25% on gps
+    no gps
+    50% display
+    25% cell grid
+    20% wifi
+    5% idle
+    * Memory
+    flash ~10MB/s
+    SD ~4-6 MB/s
+    ram 256-512Mb, gpu shares ram
+    
+    * Screen
+    different resolutions
+    Xtra High 640x960 @ 320dpi
+    High density 480x800 @ 240dpi
+    medium 320x480 @ 160dpi
+    low 240x400 @ 120dpi
+    approx 2" across
+
+
+* Hardware Constraints (Dev. perspective)
+    mainly medium density screens, 320x480 @ 160dpi
+    next gen ~320dpi (apple's retina display)
+
+    constraints:
+    usage length: mins/hrs
+    sensor use
+    network unreliable, erratic speed
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    !!!!!!phone can ring at anytime!!!!!
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        put in background, try to come back, not guaranteed
+    variable screen, processor, etc.
+    only use a few MB memory
+    MB in size on disk
+    store data efficiently
+    work with range of memory, cpu, etc. capabilities
+
+    android's Droid Font, was worked on for many months/years
+
+    What to do when phone rings?
+    Would you download 30MB (e.g newspaper) over gprs, take hours?
+    Would you wait a few mins for gps to locate you when using weather app.
+    Sensors are normally powered down at standby, takes time to come backup.
+
+
+* Mobile Operating Systems
+    OS is resource manager
+    life cycle of app tightly controlled by OS
+    resource hogs will get killed by OS
+    OS trickles out memory, aggressively deallocates.
+        If view/image is not in foreground/running, will be destroyed
+    Android lifecycle (can recover from kills/phone rings, etc)
+        onPause(), onCreate(), etc
+
+    And vs iOS
+    iOS memory management better for iOS4 vs And2.3
+    iOS will:
+        terminate apps to reclaim memory
+        send app to background on phone ring
+        flush caches to free resources (e.g. images)
+    App States:
+        not running
+        running (foreground/background)
+            active
+            in-active (waiting for IO)
+        suspended (background)
+            process state info is saved, but RAM used is normally purged.
+    
+    !!! Be paranoid about saving state all the time !!!
+
+    FS
+    wear levelling
+    write = erase then write
+    read is faster than write
+    read ~6MB/s, write ~3MB/s
+    IO critical for games
+
+    Think about on disk size of app, and time for loading this into memory!
+
+    !!!!!!!
+    ASSUME
+    !!!!!!!
+    phone will ring
+        be paranoid about state saving regulary
+    resources will be allocated reluctantly
+    erratic network connectivity
+    slow read/write from flash card
+    use RAM carefully
+    minimise sensor use
+    inform user if operation takes over 3secs
+    keep core usecase as short as possible
+
+
+* Convention Over Configuration
+    reduce decisions developers need to make
+    e.g. all images go in particular images directory,
+        framework will reference these and provide code to load these.
+    Android uses COC, but can ignore convention and do your own way.
+
+    src/
+    gen/
+    res/
+        drawable/
+        layout/
+        values/
+
+    *DEMO* HelloWorld
+
+Conclude
+    Understand hardware and sensors
+    constraints are real, must work with them
+    Be paranoid about storing state.
+    Convention Over Configuration
+        makes your life easier.

@@ -1,0 +1,3 @@
+german example
+res/values-de/strings.xml
+<string name="hello">Hallo Welt</string>

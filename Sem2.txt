@@ -1,0 +1,19 @@
+Advanced Java   HIT3087/HIT8087     On Campus   Rob Allen
+Creating Data Driven Mobile Applications    HIT3329/HIT8329     On Campus   <Paul Chapman> (Raj Vasa)
+Database Programming    HIT3304/HIT8304     On Campus   Irene Moser
+Digital Graphics    HIT3083     On Campus   Wei Lai
+Games Programming   HIT3243/HIT8243     On Campus   Clinton Woodward
+Intelligent Systems     HIT3138     On Campus   Ryszard Kowalzyk, Leon Sterling
+IT Security     HIT3321     On Campus   James Hamlyn-Harris
+Languages in Software Development   HIT3315     On Campus   Marcus Lumpe
+Multi-agent systems     HIT3150     On Campus   Ryszard Kowalzyk
+Programming in Java     HIT3037/HIT7037     On Campus   Diana Kuo
+Software Deployment and Evolution   HIT3311     On Campus   Raj Vasa
+Software Development Project B  HIT3205     On Campus   Rob Allen, Barb Hurst, Clinton Woodward
+Software Engineering Project B  HIT3258     On Campus   Rob Allen, Barb Hurst, Clinton Woodward
+Software Project Practices and Management   HIT3309     On Campus   Raj Vasa
+Software Team Project   HIT3061     On Campus   Alan Colman, Caslon Chua
+Software Testing and Reliability    HIT3057/HIT8057     On Campus   T.Y. Chen
+Technical Software Development  HIT3181     On Campus   Richard Sadus, Marcus Lumpe
+Web Application Development     HIT3324/HIT8324     On Campus   Jian Yu (Chengfei Liu)
+Web Programming/Internet and WWW 2  HIT3323/HIT6323/HET123/HET723   On Campus   Caslon Chua

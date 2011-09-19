@@ -1,0 +1,35 @@
+
+ORGANISATIONS
+
+2.1 - Citrus (Mentoring Organisation).
+Citrus is a digital agency located in South Melbourne. It has been operating for over 10 years. It's core business is in assisting businesses negotiate the digital world, including but not limited to:
+- building web-sites,
+- creative design, strategy and concepts,
+- e-commerce,
+- mobile development,
+- email campaigns,
+- digital brand strategy, planning and development.
+ Current clients of Citrus include:
+ - VRC (Victorian Racing Club)
+ - Sportsgirl
+ - Toy 'r' Us
+ - Adidas
+ - Garnier
+ - Alfred Hospital
+
+2.2 - The Structure of Citrus.
+Below senior management are two teams: Studio and Client Services. Each made up of teams with specific expertise.
+
+2.2.1 - Studio
+Studio is where products are designed and implemented. Studio is composed of three teams: Creative (responsible for design), Programming (responsible for programming and other underlying technologies), and Interface (responsible for the implementation of design's work in technologies like html/css/javascript).
+My role within Citrus has straddled the Programming and Interface teams, although primarily the work has been with the Programming team. Chiefly my role has been creating and maintaining web-sites by doing back-end website programming. It also has included some interface work where I have written css/html/javascript for the front-end of websites.
+Andrew Fisher (General Manager of Technology) is responsible for both the Programming and Interface teams. Stephen McDonald is the team's lead. I have worked under the guidance of these two individuals.
+
+2.2.2 - Client Services.
+Client Services consists of two teams: Project Management and Account Management.
+Account Management is responsible for maintaining relationships between Citrus and it's clients. My role doesn't include much
+interaction with these team, as Studio have almost no direct contact with clients.
+Project Management is responsible for the planning and implementation of projects. My role includes working with Project Managers as they are responsible for individual jobs that most be completed by the Studio team.
+
+2.3 My Role Within Citrus.
+As Citrus is an agency, my role has had me working on numerous projects (some weeks I perform work for a different client each day). Instead of listing each project I have worked on, I will list some key projects, and how they relate to my experience and development.

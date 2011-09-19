@@ -1,0 +1,135 @@
+0 - Preface
+=============
+
+Done.
+
+1 - How did we get here?
+==========================
+
+managing multiple version of information.
+
+tracks changes
+easier to collaborate on same code
+can recover from mistakes
+
+peer-to-peer
+
+distributed advantages:
+* faster, no central server to talk too.
+* each repo is a backup
+* can be used without a network
+* easier to fork, but easier to merge too
+
+convert extension for switch from other vcs's
+
+2 - A tour of Mercurial: the basics
+===================================
+
+hg help <cmd>
+e.g. hg help init
+-v/--verbose for even more info
+
+hg clone <x>
+# makes a copy
+
+.hg
+# contains metadata on repo
+# it's the repo, the files are the working directory
+
+hg log
+# see history
+
+revision number: for that repo, handy notation.
+hex string, permanent, unchanging identifier.
+
+-r x
+# see specific revision.
+-r 2:4
+# range of revisions.
+
+hg log -v
+# more info, which files, more of the commit message.
+-p
+# see diff
+
+user for changeset comes from:
+* -u option
+* HGUSER env variable
+* .hgrc's username entry
+* EMAIL env variable
+* username and hostname
+.hgrc is recommended
+
+cat .hgrc
+
+[ui]
+username = Lex Hider <lex.hider@gmail.com>
+###
+
+hg tip
+# shows last commit.
+
+hg pull -u
+# pull then update
+
+hg parents
+# where are we now? what revision is working directory at.
+
+.hg/hrc
+has default location
+
+hg init myproject
+# makes myproject dir and myproject/.hg
+
+
+3 - A Tour of mercurial: merging work
+======================================
+
+head - a change with no children
+
+hg heads
+# view heads
+
+hg merge
+# merges
+
+hg parents
+# after a merge, this has 2 commits listed.
+
+uses external programs to merge conflicting changes
+HMERGE env variable can set this.
+
+kdiff3 is what author uses.
+3 panes, left=base, middle=our's, right=their's
+below is current result of merge.
+red=unresolved conflict, replace with ours or theirs
+
+merge
+# unix command for merging.
+leaves markers for merges.
+<<<<< /tmp/a
+hello steve
+==========
+hello dave
+>>>>>> /tmp/b
+
+hg resolve
+# retry merge.
+
+hg resolve -m foo.txt
+# run this after manually editing merged file.
+-m/--mark marks as resolved.
+
+fetch extension
+# does pull, update, merge, commit
+
+.hgrc
+[extensions]
+fetch =
+# empty rhs of equals, because part of standard extensions.
+
+hg rename
+hg mv # same thing
+
+4 - Behind the Scenes
+=====================

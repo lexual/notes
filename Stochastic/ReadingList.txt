@@ -1,0 +1,79 @@
+Leon-Garcia 2008
+1.1     - Mathematical Models as Tools in Analysis and Design
+1.2     - Deterministic Models
+1.3     - Probability Models
+1.4     - A Detailed Example: A Packet Voice Transmission System
+1.5     - Other Examples
+2.7     - Synthesizing Randomness: Random Number Generators
+2.1     - Specifying Random Experiments
+2.2     - The Axioms of Probability
+2.4     - Conditional Probability
+2.5     - Independence of Events
+3.1     - The Notion of a Random Variable
+3.2     - Discrete Random Variables and Probability Mass Function
+3.3     - Expected Value and Moments of Discrete Random Variable
+4.1     - The Cumulative Distribution Function
+4.2     - The Probability Density Function
+4.3     - The Expected Value of X
+4.6     - The Markove and Chebyshev Inequalities
+4.5     - Functions of a Random Variable
+4.9     - Computer Methods of Generating Random Variables
+3.5     - Important Discrete Random Variables
+4.4     - Important Continuous Random Variables
+5.1     - Two Random Variables
+6.1     - Vector Random Variables
+5.2     - Pairs of Discrete Random Variables
+5.4     - The Joint pdf of Two Continuous Random Variables
+5.5     - Independence of Two Random Variables
+5.9     - Pairs of Jointly Gauusian Random Vairables
+5.7     - Conditional Probability and Conditional Expectation
+5.9     - Pairs of Jointly Gaussian Random Variables
+6.3.1   - [Expected Values of Vector Random Variables]
+6.4     - Jointly Gaussian Random Vectors
+5.8     - Functions of Two Random Variables
+5.10    - Generating Independent Gaussian Random Variables
+6.2     - Functions of Serveral Random Variables
+6.32    - XX
+6.41    - XX
+6.5     - Estimation of Random Variables
+8.2     - Parameter Estimation
+8.3     - Maximum Likelihood Estimation
+4.7     - Transform Methods
+7.1     - Sums of Random Variables
+7.6     - Calculating Distribution's Using the Discrete Fourier Transform
+7.2     - The Sample Mean and the Laws of Large Numbers
+7.3     - The Central Limit Theorem
+7.5     - Long-Term Arrival Rates and Associated Averages
+9.1     - Definition of Random Process
+9.2     - Specifying a Random Process
+9.3     - Discrete-Time Processes: Sum Process, Binomial Counting Process, and Random Walk
+9.4     - Poisson and Associated Random Processes
+9.5     - Gaussian Random Processes, Wiener Process and Brownian Motion
+9.10    - Generating Random Processes
+9.6     - Stationary Random Processes
+9.8     - Time Averages of Random Processes and Ergodic Theorems
+9.9     - Fourier Series and Karhunen-Loeve Expansion
+6.3.4   - XX
+9.9.1   - XX
+9.10.2  - XX
+10.1    - Power Spectral Density
+10.2    - Response of Linear Systems to Random Signals
+10.3    - Bandlimited Random Processes
+10.4    - Optimum Linear Systems
+10.5    - The Kalman Filter
+11.1    - Markov Processes
+11.2    - Discrete-Time Markov Chains
+11.3    - Classes of States, Recurrence Properties, and Limiting Probabilities
+11.4    - Continuous-Time Markov Chains
+11.6    - Numerical Techniques for Markov Chains
+12.3    - The M/M/1 Queue
+12.4    - Multi-Server Systems: M/M/c, M/M/c/c, And M/M/infinity
+12.1    - The Elements of a Queueing System
+12.2    - Little's Formula
+12.32   - XX
+12.6    - M/G/1 Queueing Systems
+12.9    - Networks of Queue: Jackson's Theorem
+12.10   - Simulation and Data Analysis of Queueing Systems
+6.3.4   - XX
+9.9.1   - XX
+9.10.2  - XX

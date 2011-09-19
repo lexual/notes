@@ -1,0 +1,49 @@
+Upper structure seventh chords - basic 7th chord with different base note.
+4 chord groups
+    5 basic 7th chords
+    altered and suspended 7th
+    triads with 9ths or 4ths
+    chords with no conventional triads
+Practice in all keys and inversions !!!
+
+I - 5 basic 7th chords
+
+major
+minor
+dominant
+half diminished (minor 7th w/ flat 5)
+diminished
+
+4 useful ways for practicing voicings in close position
+    left hand solo
+    right hand solo 
+    hands together, octave apart (not enough time to always to hands separate)
+    3 notes in RH, lowest note with LH thumb/index (later add bass notes below)
+        also good for "drop-two"
+
+drop-two - 2nd note from top, played an octave lower.
+block-chord style - melodic line harmonized w/ close position 7th chord.
+
+cycle of 5ths (F Bb Eb), flats to sharps.
+    maj7 - Gb
+    half dim - after Bb or f
+
+IA1-5
+    practice until 100 per crotchet
+    start at speed can do comfortably at.
+    LH - root, 1st inv, 2nd, 3rd, 2nd, 1st, root (minim)
+    for all 5 types.
+
+IA6-10
+    LH
+    practice until 100 per crotchet
+    end with whole note on first chord.
+    each inversion around cycle of fifths.
+        e.g. c,f,Bb ascending, down to Eb
+        keeping lowest note between mid-C and octave below?
+
+IA11-15
+    "drop two"
+    note that the note which was 2nd from bottom is now on top.
+        e.g. root cmaj7. c bass, g,b,e RH
+

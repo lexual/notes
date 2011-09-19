@@ -1,0 +1,16 @@
+Year <- c(1800, 1850, 1900, 1950) # (c)oncatenate
+plot(Carbon ~ Year, pch=16)
+#Carbon ~ Year, Plot Carbon (y) as a function of Year (x)
+#pch, plot character, 16 is solid dot
+# workspace, collection of current variables.
+# data.frame table of 2 vectors.
+fossilfuel <- data.frame(year=Year, carbon=Carbon)
+rm(year) # remove the object.
+plot(carbon ~ year, data=fossilfuel, pch=16)
+#carbon column. fossilfuel[,2] or fossilfuel[, "carbon"] or fossilfuel$carbon
+
+saving workspace goes into .RData
+install.packages("DAAG")
+install.packages(c("magic", "schoolmath"), dependencies=TRUE)
+
+1.1.2

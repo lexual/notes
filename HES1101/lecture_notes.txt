@@ -1,0 +1,533 @@
+** Climate Change intro -- DONE Jul-31
+
+exam - testing quantitative and conceptual knowledge
+
+outline
+    * 1 -  Intro, motivation, context
+    * 2 -  climate science, natural cycles, energy cycles, greenhouse effect
+    * 3 -  measurement, historical record, future projections, consensus/controversy
+    * 4 -  models, reliability, official reporting
+    * 5 -  global resources/energy, current/future technologies, alternatives
+    * 6 - social responsibility and action, economics of CC, risk
+
+
+
+** A believers presentation
+
+IPCC - intergovernmental panel on climate change
+    Working Group 1 - The Physical Science Basis
+    800 contributing authors
+    450 lead authors
+    2,500 reviewers
+solar radiates on earth
+    * some reflected
+    * half absorbed by Earth surface
+    * infrared radiation emitted from Earth's surface
+        * some of this is absorbed & re-emitted by GHG and clouds
+            * this warms Earth's surface and lower atmosphere
+GHG
+    Water vapour
+    carbon dioxide
+    methane
+    tropospheric ozone
+    nitrous oxide
+    carbon monoxide
+    - life wouldn't exist without greenhouse effect
+GHG concentration has significantly increased since 1700s (pre-industrial)
+    * hockey stick graph
+aerosols can have cooling effect
+land use changes can make cooler due to surface albedo changes.
+linear fits to graph of temperature of past 150 years show warming trend,
+    warming faster over more recent time periods.
+numerical models, pretty good at matching to observed temperatures
+volcano activities create temperature declines in short term
+regional effects aren't uniformly distrubted
+
+** A skeptical presentation
+
+Titled: A Closer Look at Our Understanding of "Climate Change" by A. Skeptic
+Tolstoi quote:
+    "I know that most men, including those at ease
+    with problems of the greatest complexity, can
+    seldom accept even the simplest and most
+    obvious truth if it be such as would oblige them
+    to admit the falsity of conclusions which they
+    delighted in explaining to colleagues, which they
+    have proudly taught to others, and which they
+    have woven, thread by thread, into the fabric of
+    their lives."
+    -- doesn't this apply to every field, and any claim about anything.
+large list of climate change causal factors, not just GHG
+    - albedo effects, aerosolds, urban heta islands, solar radiation variations, etc.
+GHG
+    -only 0.28% by concentration (co2 .117%)
+    -- doesn't point out that climate forcing of each GHG is different 
+        e.g. methane, much more forcing than co2 per unit.
+graph of co2 concentration, axis from 0 to 100%, line basically at 0%
+    similar graph from 0 to 1.5%
+comparing last 150yrs of warming to warming that has occured over past millenias
+showing warming trend of 1998 to 2008 with fairly horizontal line, trending 
+    downards at end?
+centuries graphs, deviations from mean
+    * w/ scale of a degree, graph increasing
+    * w/ scale of 40 degress, basically horizontal flat line
+ice core data from antartica over 100,000s years, show large fluctuations
+    -- but over what time period does this occur.
+trend of cooling graph since 2003
+
+conclusion
+    * human's causing global warming: yes
+        temperatures are no greater than in Earth's history
+        no empirical evidence of the so-called problem
+
+
+** Carbon cycle
+carbon
+    by mass
+        .03% of Earth's crust
+        .03% of atmosphere
+        18.5% of human body
+    organic chemistry - entrie branch devoted to chemisty of carbon-containing
+        molecules
+    hydrocarbons, carbohydrates, amino acids
+    vital to life
+    plants convert solar energy to chemical energy using water and atmospher co2
+    photosynthesis
+        6CO2 + 6H20 -> (light) -> C6H12O6 + 6O2
+        plants and phytoplankton are main photosynthesisers
+        aerobic respiration do opposite releasing c02 to get energy
+    carbon is in atmosphere, minerals, dissolved in oceans, in dead/decaying material
+    small amount in total in atmosphere, compared to amount in oceans and rocks
+carboncycle
+    many interactions
+        burning fossil fuels
+        soil respiration
+        plant respiration
+        photosynthesis
+        volcanos
+        litterfall
+        rivers
+        deforestation/land use change
+        ocean uptake
+        ocean loss
+        burial to sediments in ocean.
+    rouchly 1/4 of atmosphere's carbon cycles in/out each year
+    natural processes that affect this exchange rate
+        volcanic activity
+        oceanic biota - biological pump
+        ocean solubility
+        plant growth (fertilisation)
+    volcanic activity and atmosphereic co2 are correlate, but not major effect
+    volcanic aerosols can make cooling
+    volcanic co2 ~100 times less than human activity
+    atmospheric c02 measurements, not really effected by volcanos
+        e.g. last 50 years co2 graph, linear going up
+    biological pump
+        algae/plankton have rapid life cycles, dies and sink to ocean bottom
+        strong geological evidence that has been responsible for controlling co2 
+            levels in atmosphere
+        some experts sugessted to stimulate biological pump (by iron dust) to 
+            combat emissions
+    ocean solubility
+        co2 dissolves in ocean depending on ocean ph, atmospheric concentration,
+            temp etc,
+        amount of co2 dissolved in oceans increases at roughly 1/10 of increase
+            in atmospheric co2
+        combines with other ocean effects (thermal currents) to create solubility pump
+            solubility increases with decreasing temp
+    fertilisation
+        more plant growth with more atmospheric co2
+            also increased temp means more plant respiration (emit co2)
+    carbon cycle in present day is not in equilibrium
+        increasing in atmosphere at 3.3Gt/yr
+
+** climate & natural cycles
+Climate System
+climate vs weather
+    weather short term
+    climate - average (over 10-30yrs) of weather conditions, variations, extremes
+        primarily atmospheric, but other aspects.
+        physical components
+            atmosphere
+                bulk air movement
+                heat/light transmission
+                temperature
+                chemical composition
+                role in water cycle
+            land (lithosphere)
+                land cover (vegation, ice)
+                topography affect air movent and solar absorption
+                seasonal changes
+                water cycle
+            oceans (hydrosphere)
+                majority of Earth surface
+                important thermal properties includg energy transport, water cycle
+            cryosphere
+                land and ocean based ice, strongly affected by temperature
+        biological components
+            biosphere (terristrial and marine)
+                life has strong influence on physical environment
+                    especially chemical processes (e.g. carbon cycle)
+            biota - living organisms that occupy the biosphere
+        physical and biological components constantly interacting exchanging
+            energy and material
+    water cycle
+        the largest chemical transfer on earty
+        70% Earth's surface is covered with Water
+        1.4*10^9 km3 of water on Earth
+        97.4% water is in oceans
+            of the remaining most of that is ground water & ice caps and glaciers
+                of remaining 0.14%
+                    most in lakes and soil moisture
+                    what's left is in atmosphere, rivers and biota
+        evaporation -> vapour transfer -> precipitation -> return flow
+        complex cycle
+        factors
+            evaporation and precipitation rates
+            "residence times" in oceans, atmosphere, glaciers, etc.
+            changes/interruptions to return flow routes
+        import controls of these factors
+            human consumption
+            temperature
+            land use changes
+        human water consumption
+            most through agriculture, then industry, then municipal 
+            projected to increase
+        temperature effects:
+            evaporation rates (increase with warmer temperature)
+            melting rates in cryosphere
+            effects on vapour transport/cloud formation
+            changing freshwater flow into oceans may alter currents
+        land use
+            e.g. deforestation
+            higher evaporation rates in forested land
+            changes in return flow
+            surface effects on wind patterns can alter vapour transport and cloud formation
+            changes in reflected/absorbed solar energy, causing local temperature changes
+            can also alter "nutrient run-off" into oceans impacting biosphere
+        global "stores" are huge compared to human needs
+        fresh water part we depend on is delicately dependent on many factors
+        due to be major issue w/out CC (population and industrialisation)
+other important cycles to life
+    nitrogen cycles
+    sulphur, calcium, phosphorous
+    carbon cycle ** !! ** -- import to this subject.
+
+
+** detection and attribution (Mary Voice, Cumulus Consulting)
+detect
+    demonstrate that change is statistaclly unusual
+    statistical problem (chance that this is a chance effect)
+attribution
+    establish cause and effect
+    disprove the "null hypothesis - that observation can be explained by
+        natural variability
+detection
+    5 steps
+        look for evidence
+        decide if relevant and high quality
+        don't stop after first peice of evidence that fits
+        test evidence in court
+        develop techniques for improved detection and for false conclusions
+
+QUOTE:
+Climate Data and Networks
+"No matter how fundamental the theory of hypothesis, observatios are the 
+building blocks of science"
+-- US National Academy of Sciences National Research Council (1999)
+
+better techniques
+    special-purpose networks for high quality CC detection (global and regional)
+    GCOS - global climate observing system
+        2 main components
+            *GCOS Surface Network (GSN) - 989 stations globally
+            *GUAN (GCOS Upper Air Network) - 150 stations
+            gives better confidence to data studies
+detectin in the real world
+    careful, e.g. instrument shelter change, site location change
+    * single time series for single variable
+    * pattern recognition - fingerprints
+    * look at multiple variables simultaneously, spatial plus temporal signals
+correlation doesn't equal causation!!
+modeling vs observations, compare
+fingerprint - if GHG is warming, warmer nights and days
+1st part of attribution - plausible link between signal and hypothesised cause
+establish the *most likely cause*!
+run models with and without anthropogenic forcings and match up
+attribution never "certain", but can have confident attribution
+
+** global energy
+Energy & Temperature
+energy - ability to do work, or effect a change.
+solar main source of energy
+all objects emit electromagnetic radiation
+    amount and type determined by temp
+    radiated power = cT^4
+342W/m^2 on Earth
+30% reflected back, .3 albedo
+temperature would be -15 degC, actual is +15 degC
+greenhouse effect
+    not equally transparent to all wavelengths, high absorbing of long waves
+    out of kilter, raise temp to new balace
+    runaway
+        positive feedback, increased temp, creased water vapour
+        e.g. venus
+radiative forcing - change in net flow of radiation W/m2 at tropopause
+different times spent in atmosphere by different gases
+GWP - long term effect - global warming potential
+    relative co2 having a value of 1
+    e.g. over 100 yrs
+    methand 23
+    no2 296, etc.
+
+** human energy use
+units - BTU british thermal unit
+    quadrillion BTU
+    MTOE - million tons of oil equiv
+power - rate energy is produced
+    watt - joule per second
+    1 kwhr = 3.6 MJ
+energy is conserved
+always inefficiencies (losses) when energy changes form
+increasng energy demand very high in recent years
+burning coal
+
+
+** intro to modelling
+overview
+    distinction between scientific/empirical
+    between static/dynamic and steady/unsteady systems
+    issues of verification and validation
+    can we trust predictions of models?
+model - tool to answer questions about system w/out doing experiment
+mental/physical/mathematical models
+models
+    inform experiments
+    develop theoretical debate
+    predictive tools
+    models for control/design of systems
+white/grey/black box
+    white
+        fully scentific
+        fundamental principles
+        no "ad hoc" constants/adjustments
+        e.g. projectile in vacuum
+        computationally intensive
+        good for "understanding" 
+        difficult to apply to complex geometry and inter-coupled phenomena
+    grey
+        based on fundamental principles but "adjusted"
+        empirical constants and "ad hoc" equations added
+        semi-empirical
+        e.g. anything to do w/ heat, mass, momentum transfer (climate models)
+        often accurate/reliable
+        can have loss of important detail
+        dangerous to apply to outside range of original data
+        pragmatic approach
+    black
+        relationship between inputs and outputs
+        multi-variate statistics, neural networks and fuzzy logic
+        fully-empirical
+        e.g. complex industrial systems - control of blast furnace
+        can provide good predictions
+        lead to scientific insights
+        dangerous to apply to outside range of original data
+static models
+    unchanging result w/ a key variable (normally time)
+    end point/equilibrium state
+    often starting point for dynamic system analysis
+steady state
+    rate in = rate out
+unsteady
+    rate in = accumulation + rate out
+    maths are much harder, often leading to numerical/grey box analysis
+verification
+    are solutions independent of computer program?
+    independent of numerical details
+    appropriate grid size for calculation?
+    repeatability of calculations
+validation
+    how close is prediction to reality
+    how to compare this
+    compare future prediction to reality
+    is it valid to compare models w/ models
+    is creator of model the right person to assess the model?
+semi-empirical relationships
+validation is difficult
+    
+
+
+
+** models 1
+Models of physics/chemistry of climate system
+predicting
+    extrapolate from current trends
+    analysis of cycles - also extrapolate
+    statistical forecasting
+        describe mean, standard deviations, etc
+    dynamical forecasating - equations of motion of fluid, etc.
+climate is complex
+    extrapolation and cycles are inadequate!
+GCM - General Circulation Model 
+    dynamical forecasting
+    computer model
+    global 4D (3D + time) includes atmosphere, oceans, land
+    simulates general circulation of atmosphere
+    used for weather and climate simulation
+    
+    perfect weather forecast
+        know pressure/temp/wind/etc at each point at start of forecast
+    instead, capture basic features of atmospheric flow by predicting air parcels
+    treat as discrete parcels/grids, 3d mesh
+    smaller parcels mean better
+    represent continuous flowing fluids of atmosphere and ocean.
+can't predict weather, how predict climate?!?
+weather - initial value problem
+climate - boundary value problem
+    can't forecast position of fronts, can forecast season character, etc.
+    less dependent on initial state
+
+    beaker analogy
+        stirrer, can only predict for short amount of time
+    heater
+        can predict evolution of warmth over time
+valid?
+    can it reproduce current climate accurately
+    does it model the physical processes well enough, that a changed predicition
+        is possible by the model
+can simulate observed 20th C changes
+    need all forcings to match models to data, not just natural forcings
+sources of uncertainty
+    not containing all details
+    party chaotic
+    external/unpredicatble events, e.g. volcanoes
+climate models based upon fundamental laws of physics
+climate forecast - interested in statistical properties (e.g. mean temp)
+    rather than specific, e.g. 28 Jan 2012
+
+
+** models 2
+Forecasting for the future
+CC assessment process
+    climate theory
+    detect and attribute
+    predict/estimate future GHG emissions
+    run climate models for future climates
+    assess impacts 
+input: current levels and future forcing agents
+emissions scenarios (how much GHG in future, over time)
+SRES - Special Report on Emissions Scenarios
+    all considered possible
+    a1, a2, b1, b2
+    "what if" studies
+scenarios show up to 2-3 times 1990 levels by 2100 for co2
+annual emissions -> concentrations
+feed this data into models, test each SRES scenario separately
+low scenario (1.8, 1.1-2.9)
+high scenario (4.0, 2.4-6.4)
+SLR - sea level rise
+    not predicted w/in climate models
+    extra calculation using model outputs
+    extra water in ocean and thermal expansion
+    roughly 20-50cm for century
+    incursion (who goes under water?)
+
+choose target temp/slr, and work backward to scenario that gives it (b1)
+b1
+    co2 peak no higher than 40% above present, decline by 2040s
+    per capita no higher than 20-30% above current by 2040s
+    total emissions to 1990 levels by 2060
+        per capita to 60% of present levels
+
+emissions already above b1 trajectory
+
+results
+    greater warming over land than sea
+    less warming over high latidute southern oceans and Antarctica
+    most warming at high northern latitues
+    increased wnter rain and soil moisture at high lats
+    increase mean rain in Asia summer monsoon region
+diurnal range
+    observed decrease in diurnal range
+        blanketing at night, minT increase
+    aerosols tend to reduce too
+extreme events
+    high summer max
+    lower winter min
+for next 2 decades
+    .2degC per decade projected
+    still see .1degC/decade if co2 kept constant
+less snow cover
+thaw of permafrost
+sea ice shring
+artic summer ice may disappear
+    1.9 to 4.6degC to melt Greenland ice sheet
+    would lead to 7m rise
+    comparable to 125,000 yrs ago
+    long time scale!! millenia
+
+** observations and trends
+observed patterns and trends in climate
+
+seen warming
+.8degC
+warmest 12 years in past 20ish
+global temp?
+    station all over world
+
+urbanisation can't explain it
+SST - sea surface temperate record
+
+    reconstruct from ship observations
+    now satellite based
+diurnal
+    mins increasing faster than maxes
+    decrease in range
+different temp trends in troposphere (consistent with greenhouse theory)
+seen glacier retreat
+coral bleaching
+changes in growing season
+flower blossoming times changed
+leaves unfolding time change
+less arctic ice
+rain
+    more in high north lat
+    less in subtropics due to Hadley
+
+
+** reviews and treaties
+IPCC
+    1988 estab
+    WMO - world meteorological organisation
+    UNEP - UN environment programme
+    WG1 - physical science
+    WG2 - impacts, vulnerability, adaptation
+    WG3 - mitigation
+    Taskforce on greenhouse gas inventories
+UNFCCC - UN framework convention on CC
+COP - conference of the parties
+Kyoto - COP3 - 1997
+reduce by 5% by 2012
+
+CDM - clean development mechanism
+    implement reductions in developing countries create credits
+JI - joint implementation
+    investment of annex I in another annex I
+    earn ERU - emission reduction units
+emissions trading
+    unused emissions traded to other annex I
+Stern
+    1% GDP cost to reduce to safe levels
+
+** adaptation July 2009
+CSIRO slides
+
+
+** Alternative energies - 1
+** Alternative energies - solar
+
+** final lecture - summary
+4
+** sample exam
+
+** Swinburne Uni CC adaptation July 2009

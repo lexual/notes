@@ -1,0 +1,107 @@
+LECTURE 2
+========
+
+TITLE
+Foundation and Tools
+
+OVERVIEW
+* Programs and Operating Systems.
+* What is Android (for a programmer)?
+* Android - Device and Interaction Overview
+* Development Tools
+* Configuring the IDE for Android Development
+* Using the Logger
+* Building a Simple App
+* Building an Interactive App
+
+
+
+* Programs and Operating Systems.
+
+Frameworks on top of API
+
+* What is Android (for a programmer)?
+
+c/c++ with ndk or java with sdk
+dalvik
+    virtual machine
+    register based architecture (not stack based like jvm)
+        quicker load and execution, larger program size
+
+* Android - Device and Interaction Overview
+
+iOS only 1 button.
+android has 3 buttons: menu, back, home. can be soft-key in gingerbread
+
+* Development Tools
+
+iOS has xcode and sdk
+android has ant as build system, can use eclipse
+visual UI builder OK, not as good as Apple's
+Android has emulator, Apple has simulator. Emulator is *slow*
+need real phone to test on
+
+* Configuring the IDE for Android Development
+
+* Using the Logger
+
+debug output
+Log.d("TAG", "I am here!"); // debug
+Log.v("TAG", "I am here!"); // verbose
+i for information, also warning, error, fatal, silent
+
+iOS has NSLog
+remove when going into production
+iOS #define them
+Android - configure this via ProGuard
+ProGuard - code optimisation/obfuscation tool
+
+* Building a Simple App
+
+Each screen is an Activity, made up of views (text, imageview, etc)
+
+Layouts
+    Linear - horiz or vertical
+    Absolute
+    Table
+    Relative
+    Frame - only show one at a time
+    Scroll View
+Can nest layouts (view groups)
+
+layout as xml
+
+view
+    match_parent, fill_parent, wrap_content
+    gravity - to position
+    weight
+
+android:text="@string/oz"
+android:id="@+id/imageView1"
+android:src="@drawable/australia"
+
+values/strings.xml for strings
+res/drawable-* for images
+
+references generated in R.java ( as ints)
+
+onCreate(Bundle savedInstanceState) { // called on startup
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.main);
+}
+
+manifest defines which activity is created first
+    define icon here too, app name, label
+
+res/drawable-hdpi 240dpi
+res/drawable-mdpi 160dpi
+res/drawable-ldpi 120dpi
+icon in each is advised
+
+will scale if not provided
+
+* Building an Interactive App
+
+e.g. demo, celsius to fahrenheit
+
+android:gravity="center_vertical|right"

@@ -1,0 +1,12 @@
+gravity
+weight
+LinearLayout
+ImageView
+TextView
+fill_parent
+wrap_content
+
+dp - device independent pixels
+res/drawable-ldpi
+res/drawable-mdpi
+res/drawable-hdpi

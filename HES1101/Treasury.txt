@@ -1,0 +1,276 @@
+SOURCE:
+http://www.treasury.gov.au/carbonpricemodelling/content/default.asp
+CITE:
+Australian Treasury 2011, Strong Growth, Low Pollution: Modelling A Carbon Price,
+Australian Treasury, Canberra
+
+
+Strong Growth, Low Pollution: Modelling A Carbon Price
+The Treasury
+
+
+OVERVIEW - Key Points
+pxi
+QUOTE:
+"Early global action is cheaper than delayed action. Every year of delay adds to the eventual cost of action as it locks in more emission-intensive industry and infrastructure, and defers new investment in low-emission technology, industry and jobs."
+QUOTE:
+"Modelling of scenarios with two different starting carbon prices in 2012-13 (A$20 and A$30 per tonne of carbon dioxide equivalent) shows the economy continues to grow strongly, while cuts to carbon emissions are deep."
+QUOTE:
+"Growth in real national income per person slows by about one-tenth of one percentage point per year under carbon pricing, with real incomes around $9,000 higher in 2020 in today’s dollars."
+QUOTE:
+"Jobs will continue to grow under carbon pricing. By 2020, national employment is projected to increase by 1.6 million jobs, with or without a carbon price."
+
+
+
+INTRODUCTION
+p1
+QUOTE:
+"The current concentration of carbon dioxide, the most significant anthropogenic greenhouse gas, is estimated to be around 390 parts per million (ppm), far exceeding the range of variation over the past 800,000 years. Without action to reduce emissions, concentration levels are estimated to rise to around 1,500 ppm carbon dioxide equivalent (CO2-e) by 2100, resulting in high risks of large-scale irreversible climate change."
+QUOTE:
+"Two international global action scenarios, assuming the world takes action to stabilise greenhouse gas concentration levels at around either 550 ppm or 450 ppm by around 2100, provide a credible and realistic backdrop to examine the impact of pricing carbon in Australia."
+QUOTE:
+"The core policy and high price scenarios assume that Australian emissions will face different prices (A$20 and A$30) from 1 July 2012, which rise at a fixed rate each year, before the introduction of a flexible price cap-and-trade scheme on 1 July 2015."
+
+p3
+QUOTE:
+"The medium global action scenario assumes countries implement the less ambitious end of their mitigation pledges made in the Cancun Agreements and Copenhagen Accord, and stabilise greenhouse gas concentrations at 550 ppm by around 2100."
+QUOTE:
+"The ambitious global action scenario reflects a potential trajectory that gives around a 50 per cent chance of achieving the global goal of holding the average temperature increase to less than 2 degrees Celsius. Greenhouse gas concentrations are stabilised at 450 ppm by around 2100."
+
+p4
+QUOTE:
+"World carbon prices are expected to be around A$29 in 2016, if the world takes action to stabilise greenhouse gas concentration levels at 550 ppm of CO2-e. If the world takes action to stabilise concentration levels at 450 ppm of CO2-e, world prices are expected to be A$61 in 2016. These price ranges are slightly lower than in previous Treasury modelling, with higher world prices offset by an initially higher Australian dollar."
+
+p6
+QUOTE:
+"Pricing carbon is expected to slow Australia’s average GNI per person growth by less than 0.1 of a percentage point per year in the core policy scenario. Real GNI per person is expected to increase from today’s levels by around $9,000 per person to 2020 and more than $30,000 per person to 2050."
+QUOTE:
+"Pricing carbon is expected to slow Australia’s average GNI per person growth by less than 0.1 of a percentage point per year in the core policy scenario. Real GNI per person is expected to increase from today’s levels by around $9,000 per person to 2020 and more than $30,000 per person to 2050."
+
+p7
+QUOTE:
+"Across the scenarios, Australia’s targets are met by reducing emissions within Australia and in other countries. While pricing carbon cuts emissions, it is much more expensive to meet the whole abatement task domestically. Sourcing emission reductions in other countries plays an important role, encouraging reduction in global emissions at the lowest economic cost."
+
+GRAPH
+Chart 1.3 - intro p7
+
+QUOTE:
+"For more than 95 per cent of the economy, pricing carbon produces changes in employment, up or down, of no more than 1 per cent, by 2020."
+
+p8
+QUOTE:
+"For more than 95 per cent of the economy, pricing carbon produces changes in employment, up or down, of no more than 1 per cent, by 2020."
+
+QUOTE:
+"For more than 95 per cent of the economy, pricing carbon produces changes in employment, up or down, of no more than 1 per cent, by 2020."
+QUOTE:
+"For more than 95 per cent of the economy, pricing carbon produces changes in employment, up or down, of no more than 1 per cent, by 2020."
+
+p9
+QUOTE:
+"through the Carbon Farming Initiative.
+Allocation of some free permits to emission-intensive, trade-exposed industries will shield them from much of the effects of carbon pricing in the transition to a clean energy economy."
+
+p10
+QUOTE:
+"By the mid 2030s carbon capture and storage is projected to be commercially viable and plays a significant role in further de-carbonising the electricity generation sector."
+
+
+FOREWORD
+piii
+
+CHAP 1 - Context for the Modelling
+p2
+QUOTE:
+"If emissions are left unabated, the global atmospheric concentration of greenhouse gases could reach 1500 ppm, which would result in a 7 or more degree increase in global average temperatures from preindustrial levels. A greenhouse gas concentration of 450 ppm carbon dioxide equivalent (CO2-e) generally is associated with a 50 per cent chance of limiting the increase in global average temperature to 2 degrees Celsius above preindustrial levels, while 550 ppm CO2-e is associated with a 50 per cent chance of limiting the temperature increase to 3 degrees Celsius (IPCC, 2007a). With higher levels come increasing risk of greater temperature change and greater impacts on the climate system."
+
+CHAP 2 - Framework for Analysis
+p7
+QUOTE:
+"If emissions are left unabated, the global atmospheric concentration of greenhouse gases could reach 1500 ppm, which would result in a 7 or more degree increase in global average temperatures from preindustrial levels. A greenhouse gas concentration of 450 ppm carbon dioxide equivalent (CO2-e) generally is associated with a 50 per cent chance of limiting the increase in global average temperature to 2 degrees Celsius above preindustrial levels, while 550 ppm CO2-e is associated with a 50 per cent chance of limiting the temperature increase to 3 degrees Celsius (IPCC, 2007a). With higher levels come increasing risk of greater temperature change and greater impacts on the climate system."
+
+
+CHAP 3 - Global Climate Change Mitigation
+
+3.1.1
+QUOTE:
+"Stabilisation at 450 ppm CO2-e leaves a 50 per cent chance of limiting global average warming to around 2 degrees Celsius above pre-industrial levels. This temperature threshold is frequently referred to in the scientific literature as representing the limit beyond which ‘dangerous’ climate change may occur (for example, Hansen et al., 2007).
+Stabilisation at 550 ppm CO2-e leaves a 50 per cent chance of limiting global average warming to around 3 degrees Celsius above pre-industrial levels — 20 to 30 per cent of all species are projected to face a 50 per cent likelihood of extinction under this scenario (IPCC, 2007b), involving total realignment of ecosystems across Australia."
+
+3.1.2
+medium global scenario
+    - low end of Cancun 2020 pledge
+    - 550ppm co2eq stabilised concentration
+ambitious global scenario
+    - 450ppm
+    - high end of Cancun 2020 pledges.
+
+3.1.4
+Chart 3.4 Global carbon price graph!
+
+3.2.2
+QUOTE:
+"Box 3.4: The global carbon market
+Access to international mitigation through a market based mechanisms such as international emission trading and the Clean Development Mechanism (CDM) can reduce overall costs of meeting any given target by allowing mitigation to occur where it is cheapest.
+The global carbon market has seen robust growth in recent years, increasing in size from US$11 billion in 2005 to US$144 billion in 2009 (World Bank, 2011). The market contracted slightly to US$142 billion in 2010, primarily due to a lack of post Kyoto regulatory clarity. The EU Emissions Trading Scheme (ETS) dominates the global market, making up 84 per cent of the total market in 2010.
+Future of the Clean Development Mechanism
+The CDM established under the Kyoto Protocol, enables Annex I Parties (developed) to purchase certified emission reductions (CERs) from non-Annex I Parties (developing) and use those offsets against Annex I mitigation commitments for the first commitment period of the Kyoto Protocol (as inscribed in Appendix B of the Protocol).
+The first commitment period expires at the end of December 2012. Whether a second commitment period will occur is unclear. However, it is likely that the CDM will continue in some form beyond 2012 as the EU has declared that CERs will be eligible to be used in its ETS up until 2020."
+
+
+
+CHAP 4 - Australia without Carbon Pricing
+p43
+
+CHAP 5 - Australia with Carbon Pricing
+p72
+Source: Treasury estimates from MMRF; and ABS.
+core policy scenario (550ppm)
+    emissions per person (tonnes co2eq/person)
+        2010 - 26.1
+        2020 - 24.2 (94 overseas abatement)
+        2050 - 15.1 (434 overseas abatement)
+    Domestic emissions, Mt CO2-e
+        2010 - 578
+        2020 - 621
+        2050 - 545
+high price scenario (450ppm)
+    emissions per person (tonnes co2eq/person)
+        2010 - 26.1
+        2020 - 20.8 (94 overseas abatement)
+        2050 - 8.9 (434 overseas abatement)
+    Domestic emissions, Mt CO2-e
+        2010 - 578
+        2020 - 534
+        2050 - 323
+
+p73
+2 Scenarios
+    * "Core policy scenario — Assumes a world with a 550 ppm stabilisation target and an Australian emission target of a 5 per cent cut on 2000 levels by 2020 and an 80 per cent cut by 2050. Assumes a nominal domestic starting price of A$20/t CO2-e in 2012-13, rising 5 per cent per year, plus inflation, before moving to a flexible world price in 2015-16, projected to be around A$29/t CO2-e."
+    * "High price scenario — Assumes a world with a more ambitious 450 ppm stabilisation target and an Australian emission target of a 25 per cent cut on 2000 levels by 2020 and an 80 per cent cut by 2050. Assumes a nominal domestic starting price of A$30/t CO2-e in 2012-13, rising 5 per cent per year, plus inflation, before moving to a flexible world price in 2015-16, projected to be around A$61/t CO2-e."
+
+p75
+TABLE 5.2 details of policy scenario assumptions
+
+Exclusions:
+    Agriculture, forestry (in terms of mandatory liability for emissions), decommissioned mines, legacy waste and emissions of synthetic gases.
+
+
+p76
+Chart 5.1 - Australian Carbo Price projections
+QUOTE
+"This long-term target of reducing pollution by 80 per cent by 2050 is consistent with targets announced by other developed countries. For example, the United Kingdom has a target of 80 per cent below 1990 levels by 2050, while the European Union has proposed a target of 80 to 95 per cent below 1990 levels by 2050."
+
+QUOTE
+"Australia’s abatement task is substantial, as outlined in Chapter 4. To meet the unconditional -5 per cent target, Australia’s emissions need to fall 152 Mt CO2-e in 2020. To achieve the -80 per cent target by 2050, Australia’s emissions need to fall 897 Mt CO2-e."
+
+p77
+CHART 5.2 - Australian emissions in the core policy scenario
+QUOTE:
+"Pricing carbon results in deep cuts in domestic greenhouse gas emissions. In the core policy scenario, the carbon price produces: around 58MtCO2-e of domestic abatement and 94 Mt CO2-e of international abatement in 2020; and 463 Mt CO2-e of domestic abatement and 434 Mt CO2-e of international abatement in 2050. Despite these cuts, Australia’s domestic emission levels continue to rise for some time. In the core policy scenario, Australia’s domestic emissions increase around 10 per cent from 2010 to the late 2020s. They then fall significantly as decarbonisation of the electricity sector accelerates."
+
+p78
+CHART 5.2 - Australian emissions in the core policy scenario
+
+p83
+5.2.3 - Sourcing international abatement
+QUOTE:
+"While pricing carbon cuts domestic emissions, it is inefficient to meet the whole abatement task through domestic abatement. Sourcing abatement overseas plays an important role. Purchasing recognised international permits leads to real reductions in global emissions, just like reducing our domestic carbon pollution. Abatement is more expensive in Australia than in most developed economies due to its large share of emission intensive industries. From a global perspective, investment across borders to secure least cost abatement ensures that environmental outcomes are delivered at least cost to the world economy.
+Relying entirely upon domestic abatement opportunities, whether through a carbon pricing mechanism or direct government action, would be a much more expensive way to meet Australia’s emission targets. In the high price scenario, with a world carbon price of A$62/t CO2-e in 2020 (2010 $), domestic emissions fall by less than 4 per cent by 2020 compared to 2000 levels. Achieving the target of a 5 per cent cut in emissions by 2020 compared to 2000 levels through domestic abatement alone would require a higher domestic carbon price, or more expensive direct action.
+Sourcing abatement overseas transfers income from Australia to other countries. The cost depends on the prevailing world carbon price and the exchange rate. In a world where other countries pursue more ambitious abatement targets, the carbon price will be higher and this increases the cost in terms of domestic production and income forgone in achieving a given allocation."
+
+p84
+QUOTE:
+"Notwithstanding this progress, some commentators suggest Australia is ‘going it alone’ and as a result, Australia’s mitigation costs will be far greater than reported because impacts on domestic competitiveness will be far greater. This argument is misconceived.
+If the extent of global action is less than assumed, then Australian mitigation costs will be lower, not higher, than reported for two main reasons.
+First, less stringent world action would strengthen export demand and output for our energy exports.
+Second, if global action is less than assumed, world carbon prices will be lower, making it less expensive to source abatement overseas."
+
+p89
+QUOTE
+"GDP grows in the core policy scenario by 2.6 per cent per year to 2050,"
+
+QUOTE
+"Achieving a target of an 80 per cent reduction will be slightly more challenging than achieving a target of a 60 per cent reduction of 2000 levels by 2050. For a given world carbon price, the most efficient way for Australia to meet the stronger target will be to source additional abatement from overseas."
+
+p92
+QUOTE
+"The bulk of the economy is unaffected by these structural changes. More than 95 per cent of industries (by employment share) see their level of employment in 2020 change by less than 1 per cent, up or down, compared to the medium global action scenario. Even industries that experience larger changes in employment, experience small changes as a consequence of carbon pricing compared to the normal flows in and out of employment without carbon pricing (Chapman and Lounkaew, 2011)."
+
+p100
+QUOTE
+"The expansion of Australia’s coal industry will be affected by the development of carbon capture and storage technology (CCS). Carbon capture and storage starts in the mid 2030s in the core policy scenario and in the mid 2020s in the high price scenario. Without this technology, Australia’s coal production would grow by 92 per cent over the period to 2050, instead of 109 per cent in the core policy scenario. Without the development and take up of CCS, domestic emissions would be higher by around 25 Mt CO2-e in 2050 and the estimated impact of carbon pricing on the level of GNI would be larger by 0.5 percentage points in 2050." 
+
+p101
+QUOTE
+"Generation from renewable technology is significantly higher in both policy scenarios. Initially, most renewable generation that comes online is wind generation; later this is overtaken by geothermal energy which becomes a major source of renewable generation. Gas also becomes an important component of Australia’s generation mix, increasing across all policy scenarios. The extent of switching towards gas-fired generation depends on future gas prices and availability of alternative, cleaner technology, such as coal carbon capture and storage."
+
+p104
+QUOTE
+"Generation from renewable technology is significantly higher in both policy scenarios. Initially, most renewable generation that comes online is wind generation; later this is overtaken by geothermal energy which becomes a major source of renewable generation. Gas also becomes an important component of Australia’s generation mix, increasing across all policy scenarios. The extent of switching towards gas-fired generation depends on future gas prices and availability of alternative, cleaner technology, such as coal carbon capture and storage."
+
+p105
+QUOTE
+"Renewable generation continues to grow strongly to 2050, to around 40 per cent of total generation in the core policy scenario and around 50 per cent in the high price scenario.
+The early increase in renewables is largely driven by increased wind generation. However, over time, other renewables become increasingly competitive. By 2050, geothermal is a major source of renewable generation, accounting for between 13 per cent (ROAM) and 23 per cent (SKM MMA) of total generation in 2050."
+
+p107
+QUOTE
+"The outlook for gas generation depends heavily on the combined effect of lower electricity demand, rising gas prices and the carbon price. Gas remains an important component of Australia’s generation, remaining around current levels over the next 15 years. However, in the core policy scenario it increases over 200 per cent by 2050."
+
+p108
+CCS - Carbon Capture & Storage
+QUOTE
+"Sensitivity analysis shows that if CCS does not become viable, gas will provide additional generation in place of CCS generation. This results in higher emissions and electricity prices, mainly after 2040."
+QUOTE
+"New investment
+In the core policy scenario, over $200 billion in new generation investment is required between now and 2050. This includes around $50-$60 billion in gas, $100 billion in renewables, and around $45-$65 billion in coal, nearly all of which is for CCS plants."
+
+p111
+QUOTE
+"Higher wholesale electricity prices flow into retail prices paid by households. Household retail electricity prices are projected to increase by 10 per cent on average, compared to the global action scenario, over five years after carbon pricing starts. The percentage impact is lower than for wholesale prices, as wholesale prices form only part of total retail prices."
+
+p115
+QUOTE
+"Higher wholesale electricity prices flow into retail prices paid by households. Household retail electricity prices are projected to increase by 10 per cent on average, compared to the global action scenario, over five years after carbon pricing starts. The percentage impact is lower than for wholesale prices, as wholesale prices form only part of total retail prices."
+QUOTE
+"The Latrobe Valley remains an important energy exporting region, even as existing coal plant is retired. The Latrobe Valley has significant transmission and distribution networks, making it ideal for investment in new and cleaner energy sources. Both modellers show more generation capacity located in the Latrobe Valley in 2050 than today, despite the eventual retirement of all existing emission-intensive brown coal generators. However, the results of the modellers vary considerably in the timing of retirements, and the composition and timing of new generation capacity."
+
+p118
+QUOTE
+"Despite continued growth in transport activity across the economy, carbon pricing results in lower emissions in the transport sector. Transport delivers between 8 and 11 per cent of total domestic abatement out to 2050, with the road transport sector providing the vast majority of abatement.
+The core policy scenario assumes all passenger and light commercial vehicles, all vehicles engaged in agriculture and fishing, and all vehicles using LPG and natural gas are excluded permanently from carbon pricing impacts. All other road freight vehicles are included from 2014-15.
+In contrast, the high price scenario includes passenger vehicles, vehicles engaged in agriculture and fishing, and gas fuelled vehicles from 2015-16, while business vehicles and vehicles using natural gas are included from 2013-14. Once included, passenger vehicles face only the incremental increase in the carbon price over time, while other sectors face the full carbon price once included."
+
+p120
+QUOTE
+"The most significant change in fuel mix is the adoption of biodiesel blends. By 2030, biodiesels become the dominant fuel used in heavy vehicles and represent more than 75 per cent of total fuel use by 2050.
+There is also increased uptake of electric vehicles and synthetic diesels, although these remain fairly small shares of the overall fuel mix. The uptake of electricity among heavy vehicles is confined to rigid trucks and buses, as it is unsuitable for use in long haul transport. Higher carbon prices and carbon capture and storage make synthetic fuels more attractive."
+
+p121
+QUOTE
+"South Australia, Tasmania and Victoria face more modest carbon pricing impacts than the national average. They are less emission intensive due to a greater concentration of industries, such as motor vehicles and parts production, textiles, clothing and footwear, and forestry, which grow somewhat faster with carbon pricing.
+Queensland, Western Australia and New South Wales have more emission-intensive industrial structures, relying somewhat more on emission-intensive manufacturing, such as iron and steel production, alumina and aluminium production and petroleum refining, and energy extraction. For example, exports of liquefied natural gas from Western Australia and Queensland grow strongly with carbon pricing, but production growth may slow with a carbon price in the 2030s and 2040s. Similarly, while output of the black coal industry in New South Wales will continue to grow, the rate of output growth will be somewhat slower with carbon pricing."
+
+p123
+QUOTE
+"To help households with the move to a low carbon economy, the Government will provide assistance through increases in the Family Tax Benefit, pensions and allowances as well as tax cuts. This will ensure that households are provided with support as Australia moves to a clean energy future.
+The analysis in this section overstates the effect of carbon pricing on the average level of consumer prices. It assumes emission costs to households are passed on fully, based on fixed consumption patterns. The true change in the average household cost of living is likely to be lower than the estimate here, as households substitute towards lower emission goods and services. Changes in consumption will start to have some effect immediately after the introduction of carbon pricing and become more important over time. "
+
+p124
+QUOTE
+"Most of the effect on consumer prices occurs in the first year of the fixed price period. Overall consumer prices increase by 0.7 per cent in 2012-13 under a $23 carbon price. On average, household spending is expected to increase by less than $10 per week. The consumer price impact on different goods depends on the emissions intensity of their production. Household expenditure, on average, is expected to increase by $3.30 per week due to higher electricity prices and by $1.50 per week due to higher gas prices. Most items in consumer budgets will increase by less than 1 per cent, such as food where households are expected on average to spend only an additional $0.80 per week. These effects are small compared with the effect of the new tax system introduced in July 2000, which raised consumer prices by 21⁄2 per cent. They are also small in the context of historical movements in consumer prices from year to year."
+QUOTE
+"By 2015-16, with the transition to a flexible price cap-and-trade scheme with a world carbon price projected to be around A$29, it is estimated that carbon pricing will have raised the level of consumer prices by a further 0.2 per cent, for a total effect of 0.9 per cent. By 2015-16, households, on average, would spend around $13.40 per week more in the core policy scenario if they made no changes in their consumption patterns following the introduction of carbon pricing. Of course, the actual world price in 2015-16 may be lower or higher, resulting in different effects on consumer prices. Beyond 2015-16, carbon pricing is not expected to have a material impact on inflation."
+
+p125
+QUOTE
+"Low income households are disproportionately affected by carbon pricing. They spend, on average, a higher proportion of their disposable income on emission-intensive goods, such as electricity and gas. For this reason, the average price impact for a single pensioner household in the lowest income quintile is estimated to be 1.0 per cent in 2012-13, while for a one-income household with no children in the highest income quintile the average price impact is estimated to be 0.6 per cent."
+
+
+
+APPE A - Modelling Framework
+p127
+
+APPE B - Treasury Climate Change Mitigation Modelling -- Assumptions
+p137

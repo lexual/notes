@@ -1,0 +1,188 @@
+Climate Change 2007 - The Physical Science Basis
+
+11 chapters.
+
+FOREWORD
+~~~~~~~~~~
+no new research
+role is to make policy-relevant (not prescriptive) assessments
+3 volumes, 4th is synthesis
+    1 - science
+    2 - impacts, vulnerabilities and adaptation options
+    3 - mitigation
+
+PREFACE
+~~~~~~~~~~
+based on science as of mid-2006
+cryosphere
+    all snow, ice, and frozen ground (including permafrost) 
+biogeochemistry
+    systems science - cycles of nitrogen, carbon, etc. studied
+AR4 - Assessment Report 4
+11 chapters
+    01 - intro, climate change science progression, methods in climate science
+    02 - changes in atmospheric constituents (gas and aerosols)
+        radiative forcing, observed changes in the atmosphere
+    03 - Observations, atmospheric surface and climate change
+    04 - Observations, snow, ice, frozen ground
+    05 - Observations, sea level, ocean
+    06 - paleoclimatic perspective, evidence for past climate change
+    07 - changes in atmospheric constituents (gas and aerosols)
+        biogeochemical cycles including aerosol/cloud interactions.
+    08 - climate models, to explain observations
+    09 - causes for climate change: natural and anthropogenic
+    10 - climate models for projections
+    11 - regional climate change projections
+    SPM - Summary for Policymakers
+    TS - Technical Summary
+        both roadmaps, and cross references
+    FAQs (19)
+
+hurricane
+    from spanish huracan, from name of Taino storm god Jurcan
+    tropical cyclone in north atlantic, caribbean sea, gulf of mexico
+        or north pacific off west coast of mexico (link between americas)
+typhoon
+    eastern pacific (like a hurricane)
+cyclone
+    southern hemisphere and indian ocean (like a hurricane)
+
+CHO1 - Historical Overview of Climate Change Science
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FAQ 01.1 - What factors determine earth's climate?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+forcings - external factors that affect climate
+    e.g. volcano eruption, solar variations, human-induced atmosphere change
+    3 ways to change radiation balance of earth
+    * change solar radiation (changes in sun or earth orbit)
+    * changing fraction of sun reflected back (cloud cover, vegetation,
+        atmospheric particles.
+    * changing longwave radiation coming from Earth into space.
+        change greenhouse gases concentrations
+    climate changes directly to these changes, and indirectly through feedback
+        mechanisms.
+albedo - amount of sun reflected back
+evapotranspiration - combination of evaporation from Earth surface and
+    transpiration from vegatation
+thermals - warming air by contact with Earth surface.
+
+1370 watt per square metre facing sun during daytime at top of atmosphere
+    about 1/4 of this when averaged over entire earth 
+    30% of this reflected back
+        2/3 of this is due to aerosols (clouds and small particles)
+            biggest changes due to volcano eruptions, can remain for a year
+                or two, normally aerosols get rained out in a week or two.
+                1/2 a degree drop
+                    
+        light coloured surface the rest (ice, snow, desert)
+240Watts absorbed by Earth and atmosphere
+    same goes out as thermal radiation
+    would need to be -19degC to emit 240W thermal radiation
+        mean surface temp is 14degC
+natural greenhouse effect - blanket for longwave radiation
+    mainly co2 and water vapour, nitrogen and oxygen have no effect.
+clouds to absorb thermal, but balanced out by their reflectivity.
+35% increase in c02 in industrial era, mainly fossil fuel and deforrestation
+
+more solar radiation hits tropics
+latent heat - energy to evaportate water
+positive feedback - amplify, negative diminishes
+ice-albedo feedback - more greenhouse gases, warming, melts ice, now darker
+    and more absorbed.
+
+
+
+Holocene - past 11,700 years, latest warm-period.
+from past 10k years to 1750, co2 within 280 +/- 20ppm
+co2 risen exponentially to 367ppm in 1999, 379ppm in 2005
+
+methane was increasing  1%/yr, now .4%/yr, possibly has stabilised
+also nitrigon oxide increased
+        
+
+
+
+
+
+01.2 - What is the relationship between climate change and weather?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+01.3 - What is the greenhouse effect?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+02.1 - How do human activities contribute to climate change and how do they 
+        compare with natural influences?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+03.1 - How are temperatures on earth changing?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+03.2 - How is precipitation changing?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+03.3 - Has there been a chang in extreme events like heat waves, droughts,
+        floods and hurricanes?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+04.1 - Is the amount of snow and ice on the earth decreasing?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+05.1 - Is sea level rising?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+06.1 - What caused the ice ages and other important climate changes before the
+        industrial era?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+06.2 - Is the current climate change unusual compared to earlier changes in 
+        Earth's history?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+07.1 - Are the increases in atmospheric carbon dioxide and other greenhouse
+        gases during the industrial era caused by human activities?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+08.1 - How reliable are the models used to make projections of future climate
+        change?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+09.1 - Can individual extreme events to be explained by greenhouse warming?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+09.2 - Can the warming of the 20th century be explained by natural variability?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+10.1 - Are extreme events, like heat waves, droughts or floods, expected to
+        change as the Earth's climate changes?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+10.2 - How likely are major or abrupt climate changes, such as loss of ice 
+        sheets or changes in global ocean circulation?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+10.3 - If emissions of greenhouse gases are reduced, how quickly do their
+        concentrations in the atmosphere decrease?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+11.1 - Do projected changes in climate vary from region to region?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+

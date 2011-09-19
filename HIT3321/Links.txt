@@ -1,0 +1,91 @@
+Wk 1
+
+** Intrusion Detection Terminology
+Alerts/events
+    sent to system operator when suspicious activity detected
+ArachNIDS
+    (Advanced Reference Archive of Current Heuristics for Network Intrusion
+    Detection Systems)
+    attack profile db for Network IDSes
+Automated/Active Response
+    automatically defend against attack when detected
+Blacklist
+    list of addresses to block/monitor considered a threat
+CIDF
+    Common Intrusion Detection Framework
+    standardizing IDS by developing protocol/application programming interfaces
+CISL
+    Common Intrusion Specification Language
+    language for CIDF components to talk to each other
+Content Monitoring
+    url/email filtering
+Consoles
+    disprse IDS sensors report to central console
+CVE - Common Vulnerabilities and Exposures
+    standardizing names for vulnerabililies
+DeepSight Analyzer and DeepSight TMS (Threat Management System)
+    free SecurityFocus/Symantec service to anonymously pass on network security
+    events, used in DeepSight
+Enumeration
+    probing network to discover hosts and services that are present
+Evasion
+    attacking and getting by IDS noticing.
+False Negatives/Miss
+    attack not detected or considered benign
+False Positives/False Alarm
+    alerted as attack but actually benign
+Fragmentation
+    breaking up packet if differing MTU (max transmission unit)
+    been used to evade IDS
+Heuristics
+    use AI to detect intrusions
+Honeynet Project
+    network of production systems designed to be compromised so they can 
+    analyze the attack
+Honeypot
+    used to detect attacks
+File Integrity Checkers
+    detects changes to key files by keeping hashes of them
+Host-based IDS
+    monitors logs from multiple sources
+    detect misuse from trusted insiders or those who've infiltrated your network
+    detection methods
+Hybrid IDS
+    combined Host-based and NNIDS
+Network IDS (NIDS)
+    monitors all traffic at segment where sensor installed
+Network Node IDS (NNIDS)
+    
+Personal Firewall
+    on individual systems
+Network Intrusion Prevention System / Inlinde IDS
+Host Intrusion Prevention System
+Attack/DDOS Mitigation Tool
+Intrusion Detection Working Group (IDWG)
+Islanding
+Load Balancing
+Low and Slow
+OS Fingerprinting (nmap)
+    Passive
+    Active
+Out of Band (OOB)
+    IDS management interface on separate network so can't be attacked
+Promiscuous
+    non-promiscuous - see what's addressed to it
+    promiscuous - all traffic regardless of source/dest address
+
+Routers
+Shunning
+Signatures
+Protocol Decode/Analysis
+Heuristics
+Anomaly/Behavioral Signatures
+    Protocol Anomaly
+    Statistical Anomaly
+Stealth Mode
+Taps
+Tarpit
+Tuning
+Visualization
+
+
